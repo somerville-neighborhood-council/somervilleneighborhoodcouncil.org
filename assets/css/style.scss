@@ -19,6 +19,7 @@ body {
 
 .container {
   width: auto;
+  padding: 0 10px;
 }
 
 a {
@@ -69,5 +70,6 @@ h2#somerville-ma {
 .markdown-body h2 a,
 .markdown-body h3 a,
 .markdown-body h4 a {
-  padding: 0 20px;
+  padding: 20px;
+  line-height: 1.8;
 }
