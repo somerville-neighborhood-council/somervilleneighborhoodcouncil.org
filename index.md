@@ -2,7 +2,7 @@
 title: Union Square Neighborhood Council
 ---
 
-### [espaÃol]() [portuguÃªs]() [english]()
+### [espa&ntilde;ol]() [portugu&ecirc;s]() [english]()
 
 # Union Square Neighborhood Council
 
