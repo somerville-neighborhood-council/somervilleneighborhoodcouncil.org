@@ -41,14 +41,22 @@ As a Working Group we have developed a process of:
 ## Working Group History
 
 1/22 - First draft of bylaws and structure submitted for comment (all appointed)
-2/11 - Values and Goals adopted, Structures discussed (appointed, elected, or hybrid)
-2/22 - Hybrid structure to be investigated
-3/4 -  Hybrid structure presented, rejected by 2/3 in favor of an elected model 
-3/18 - Stakeholder membership and elected structure affirmed by 2/3 vote.
-3/31 - Zoning recommendations letter circulated, signed by many members
-4/8 - Decision-making framework formalized, elected structure reaffirmed by 2/3 vote
-4/19 - Bylaws presented, amendments proposed
-4/29 - Meeting to discuss zoning with G. Proakis
-5/10 - Amended Bylaws passed by 3/4 vote.
 
+2/11 - Values and Goals adopted, Structures discussed (appointed, elected, or hybrid)
+
+2/22 - Hybrid structure to be investigated
+
+3/4 -  Hybrid structure presented, rejected by 2/3 in favor of an elected model 
+
+3/18 - Stakeholder membership and elected structure affirmed by 2/3 vote.
+
+3/31 - Zoning recommendations letter circulated, signed by many members
+
+4/8 - Decision-making framework formalized, elected structure reaffirmed by 2/3 vote
+
+4/19 - Bylaws presented, amendments proposed
+
+4/29 - Meeting to discuss zoning with G. Proakis
+
+5/10 - Amended Bylaws passed by 3/4 vote.
 
