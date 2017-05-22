@@ -12,8 +12,9 @@ html {
 
 body {
   background: none;
-  padding: 10px;
+  padding: 10px auto;
   max-width: 800px !important;
+  margin: 0 auto;
 }
 
 .container {
@@ -45,6 +46,10 @@ hr.double {
   border-bottom: 3px solid #555;
 }
 
+h2#somerville-ma {
+  color: #999;
+}
+
 .markdown-body h1,
 .markdown-body h2,
 .markdown-body h3,
@@ -62,6 +67,7 @@ hr.double {
 
 .markdown-body h1 a,
 .markdown-body h2 a,
-.markdown-body h3 a {
+.markdown-body h3 a,
+.markdown-body h4 a {
   padding: 0 20px;
 }
