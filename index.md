@@ -1,8 +1,10 @@
 ---
-layout: page
-title: About
-permalink: /about/
+title: Union Square Neighborhood Council
 ---
+
+### [espaÃol]() [portuguÃªs]() [english]()
+
+
 
 # Union Square Neighborhood Council
 
@@ -10,7 +12,10 @@ permalink: /about/
 
 ****
 
-Hello there!
+### [How to join]() [Bylaws]() [Elections]() [Meetings]() [Email list]() [History]() [Updates]()
+
+<hr class="double" />
+
 
 
 
