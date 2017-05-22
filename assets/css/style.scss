@@ -12,6 +12,11 @@ html {
 
 body {
   background: none;
+  padding: 10px;
+}
+
+.container {
+  width: auto;
 }
 
 a {
@@ -42,4 +47,10 @@ hr.double {
 .markdown-body h1 {
   font-size: 3em;
   margin-top: 40px;
+}
+
+.markdown-body h1 a,
+.markdown-body h2 a,
+.markdown-body h3 a {
+  padding: 0 20px;
 }
