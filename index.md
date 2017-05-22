@@ -1,16 +1,7 @@
 ---
 title: Union Square Neighborhood Council
+layout: default
 ---
-
-### [espa&ntilde;ol]() [portugu&ecirc;s]() [english]()
-
-# Union Square Neighborhood Council
-
-## Somerville, MA
-
-#### [How to join]() [Bylaws]() [Elections]() [Meetings]() [Email list]() [History]() [Updates]()
-
-<hr class="double" />
 
 ## WHAT IS IT?
 
