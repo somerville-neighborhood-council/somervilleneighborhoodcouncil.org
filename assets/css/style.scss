@@ -31,6 +31,12 @@ a:hover {
   color: #111;
 }
 
+h1 a,
+h2 a,
+h3 a {
+  text-decoration: none;
+}
+
 .markdown-body p,
 .markdown-body blockquote,
 .markdown-body ul,
