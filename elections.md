@@ -2,9 +2,11 @@
 title: Elections
 ---
 
+Elections have not yet happened, but they are described in the [bylaws](/bylaws) as follows:
+
 ## Description of Membership
 
-The Union Square Neighborhood Council shall be open to everyone who works or lives in Union Square as well as everyone who is a stakeholder in Union Square. Stakeholders include but are not limited to people who participate in religious, social or community organizations in Union Square, receive services from an agency in Union Square, have kids in Union Square schools, take classes in Union Square, live just outside the specified border but identify with Union Square, have recently been displaced from Union Square, own property in Union Square etc. Prospective members of the Neighborhood Council will be asked complete a membership form which includes a statement of their âstakeâ in Union Square.
+The Union Square Neighborhood Council shall be open to everyone who works or lives in Union Square as well as everyone who is a stakeholder in Union Square. Stakeholders include but are not limited to people who participate in religious, social or community organizations in Union Square, receive services from an agency in Union Square, have kids in Union Square schools, take classes in Union Square, live just outside the specified border but identify with Union Square, have recently been displaced from Union Square, own property in Union Square etc. Prospective members of the Neighborhood Council will be asked complete a membership form which includes a statement of their "stake" in Union Square.
 
 ## Description of Interim Board
 

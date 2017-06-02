@@ -25,18 +25,6 @@ As of May 15, 2017:
 * In total 22 members of the USNC-WG process were in either CAC, LOCUS, or both. 
 
 
-## Our Process
-
-As a Working Group we have developed a process of:
-
-* Meeting bi-weekly for 2-3 hours, alternating between weekend mornings and weekday evenings
-* Co-Facilitation and agenda management
-* Formal circulation and approval of meeting minutes
-* Adopting a robust code of conduct
-* Tasking subcommittees with developing materials and making recommendations
-* Includes Zoning, CBA, Structure &amp; Bylaws subcommittees
-* Voting to approve motions by 2/3 majority
-
 
 ## Working Group History
 

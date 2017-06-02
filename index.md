@@ -46,7 +46,17 @@ The Neighborhood Council Working Group is:
 * Including Zoning Overlay, MLDA, CBO
 * Developing Structure, Bylaws, Ratification and Election processes for a formalized, elected Neighborhood Council
 
+****
 
+## Meetings
 
+As a Working Group we have developed a process of:
 
+* Meeting bi-weekly for 2-3 hours, alternating between weekend mornings and weekday evenings
+* Co-Facilitation and agenda management
+* Formal circulation and approval of meeting minutes
+* Adopting a robust code of conduct
+* Tasking subcommittees with developing materials and making recommendations
+* Includes Zoning, CBA, Structure &amp; Bylaws subcommittees
+* Voting to approve motions by 2/3 majority
 
