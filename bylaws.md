@@ -1,6 +1,6 @@
 ## Neighborhood Council Bylaws
 
-Provide framework for Founding Board to:
+The interim bylaws provide a framework for Founding Board to:
 
 * Be agile in making "small" decisions
 * Seek Membership buy-in and approval of "large" decisions
@@ -29,6 +29,5 @@ Open to all stakeholders over 16, has voting rights in elections of the Founding
 
 ## Full documents
 
-(coming soon)
-
+Download the May 10, 2017 bylaws here: [usnc-interim-bylaws-05-10-17.pdf](docs/usnc-interim-bylaws-05-10-17.pdf)
 
