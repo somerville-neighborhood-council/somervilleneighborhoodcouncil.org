@@ -61,6 +61,6 @@ As a Working Group we have developed a process of:
 * Voting to approve motions by 2/3 majority
 
 
-## Emails
+## Email
 
 Our email discussion list [can be found here](https://groups.google.com/forum/#!forum/locus-pmo-working-group), and upcoming meetings are announced there. 
