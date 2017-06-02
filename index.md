@@ -60,3 +60,7 @@ As a Working Group we have developed a process of:
 * Includes Zoning, CBA, Structure &amp; Bylaws subcommittees
 * Voting to approve motions by 2/3 majority
 
+
+## Emails
+
+Our email discussion list [can be found here](https://groups.google.com/forum/#!forum/locus-pmo-working-group), and upcoming meetings are announced there. 
