@@ -5,13 +5,33 @@ layout: default
 
 ## WHAT IS IT?
 
-The Union Square Neighborhood Council Working Group has come to agreement to initiate the formation of a Neighborhood Council. The community will elect a fifteen member interim founding board will serve for one year. In that time the Interim Board will be responsible for, among other things, leading the process of creating permanent Union Square Neighborhood Council bylaws and structure. 
+**The redevelopment that will transform our neighborhood is just beginning.** Residents, business people, and city officials have been working together to plan a Neighborhood Council to influence this transformation.
 
-The Working Group has established interim bylaws to guide the Neighborhood Council in its first year. 
 
-Now that the Union Square Neighborhood Council Working Group has agreed to the interim bylaws and structure, this is Our Process for moving forward:
+### GET INVOLVED
 
-1. USNC-WG holds a broad community meeting, at which USNC is presented, a vote is held to ratify interim board formation, elections committee is established, board candidates solicited, and the election announced.
+* Come to the community meeting
+* Meet your neighbors
+* Show we care about our community
+* Learn more about the proposed Council
+* Provide input on the Neighborhood Council role and approach
+* Learn how to run for the first-year board
+
+### COMMUNITY MEETING
+
+#### WHEN: June 21, 7-9pm
+#### WHERE: Argenziano School, 290 Washington St
+
+Please help get the word out by distributing these flyers:
+
+* Espa&ntilde;ol: [neighborhood-council-1pager-final-espanol.pdf](docs/neighborhood-council-1pager-final-espanol.pdf)
+* English: [neighborhood-council-1pager-final-english.pdf](docs/neighborhood-council-1pager-final-english.pdf)
+
+****
+
+### Timeline
+
+1. USNC-WG holds a broad community meeting **on the 21st of June, at the Argenziano School at 7-9pm**, at which USNC is presented. At a subsequent meeting, a vote will be held to ratify interim board formation, an elections committee is established, board candidates solicited, and the election announced.
 2. The USNC Interim Board Election is held.
 3. Two weeks later the newly elected Board will hold the first Union Square Neighborhood Council Meeting. 
 
