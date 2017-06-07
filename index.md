@@ -25,6 +25,7 @@ layout: default
 Please help get the word out by distributing these flyers:
 
 * Espa&ntilde;ol: [neighborhood-council-1pager-final-espanol.pdf](docs/neighborhood-council-1pager-final-espanol.pdf)
+* Portugu&ecirc;s: [neighborhood-council-1pager-final-portugues.pdf](docs/neighborhood-council-1pager-final-portugues.pdf)
 * English: [neighborhood-council-1pager-final-english.pdf](docs/neighborhood-council-1pager-final-english.pdf)
 
 ****
