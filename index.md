@@ -32,8 +32,8 @@ Please help get the word out by distributing these flyers:
 
 ### Timeline
 
-1. USNC-WG holds a broad community meeting **on the 21st of June, at the Argenziano School at 7-9pm**, at which USNC is presented. At a subsequent meeting, a vote will be held to ratify interim board formation, an elections committee is established, board candidates solicited, and the election announced.
-2. The USNC Interim Board Election is held.
+1. **On June 21st at 7-9pm and June 24th at 10am-12pm, at the Argenziano School**, community meetings will be held, and the USNC will be presented. At these two meetings, a vote will be held to ratify the interim board formation, and then an elections committee will be established, board candidates solicited, and the election announced.
+2. **On July 22 and July 26:** the USNC Interim Board Election is held. The first meeting will also be a Candidates Forum for those running for the Neighborhood Council Board.
 3. Two weeks later the newly elected Board will hold the first Union Square Neighborhood Council Meeting. 
 
 
