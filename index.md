@@ -10,16 +10,17 @@ layout: default
 
 ### GET INVOLVED
 
-* Come to the community meeting
+* Come to the community meetings
 * Meet your neighbors
 * Show we care about our community
 * Learn more about the proposed Council
 * Provide input on the Neighborhood Council role and approach
 * Learn how to run for the first-year board
 
-### COMMUNITY MEETING
+### COMMUNITY MEETINGS
 
 #### WHEN: June 21, 7-9pm
+#### &amp; June 24, 10am-12pm
 #### WHERE: Argenziano School, 290 Washington St
 
 Please help get the word out by distributing these flyers:
