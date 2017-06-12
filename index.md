@@ -24,8 +24,8 @@ layout: default
 
 Please help get the word out by distributing these flyers:
 
-* Combined languages (Krey&ograve;l ayisyen, Espa&ntilde;ol, Portugu&ecirc;s, English): [neighborhood-council-1pager-final-kreyol-ayisyen.pdf](docs/neighborhood-council-1pager-final-kreyol-combined-2.pdf)
-* Combined languages all on one 2-sided sheet (Krey&ograve;l ayisyen, Espa&ntilde;ol, Portugu&ecirc;s, English): [neighborhood-council-1pager-final-kreyol-ayisyen.pdf](docs/neighborhood-council-1pager-final-kreyol-combined-2-mini.pdf)
+* Combined languages (Krey&ograve;l ayisyen, Espa&ntilde;ol, Portugu&ecirc;s, English): [neighborhood-council-1pager-final-combined-2.pdf](docs/neighborhood-council-1pager-final-combined-2.pdf)
+* Combined languages all on one 2-sided sheet (Krey&ograve;l ayisyen, Espa&ntilde;ol, Portugu&ecirc;s, English): [neighborhood-council-1pager-final-combined-2-mini.pdf](docs/neighborhood-council-1pager-final-combined-2-mini.pdf)
 
 ****
 
