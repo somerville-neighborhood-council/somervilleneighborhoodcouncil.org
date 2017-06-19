@@ -4,11 +4,30 @@ title: Elections
 
 Elections have not yet happened, but they are described in the [bylaws](/bylaws) as follows:
 
-## Description of Membership
 
-The Union Square Neighborhood Council shall be open to everyone who works or lives in Union Square as well as everyone who is a stakeholder in Union Square. Stakeholders include but are not limited to people who participate in religious, social or community organizations in Union Square, receive services from an agency in Union Square, have kids in Union Square schools, take classes in Union Square, live just outside the specified border but identify with Union Square, have recently been displaced from Union Square, own property in Union Square etc. Prospective members of the Neighborhood Council will be asked complete a membership form which includes a statement of their "stake" in Union Square.
+## Timeline
 
-## Description of Interim Board
+**July 7 by 5pm** -- Candidate packets due - electronically or in person or by mail (see below)
+
+
+<!--
+
+## Frequently Asked Questions
+
+* 
+
+
+## Candidates
+
+
+-->
+
+
+## Membership
+
+The Union Square Neighborhood Council shall be open to everyone who works or lives in Union Square as well as anyone who lives in Somerville. Stakeholders include but are not limited to people who participate in religious, social or community organizations in Union Square, receive services from an agency in Union Square, have kids in Union Square schools, take classes in Union Square, live just outside the specified border but identify with Union Square, have recently been displaced from Union Square, own property in Union Square etc. Prospective members of the Neighborhood Council will be asked complete a membership form which includes a statement of their "stake" in Union Square. Please see the bylaws for exact language.
+
+## Interim Board
 
 There shall be established a Founding Board comprised of fifteen (15) members that shall serve and execute the responsibilities of the Neighborhood Council in its first year. All Neighborhood Council Board members must be over 16 years of age and live or work in Union Square. The initial Board will serve for one year. If a Board member is displaced from Union Square he or she may serve out the duration of his or her term. The Founding Board members shall be elected by eligible members.
 
@@ -18,8 +37,9 @@ There shall be established a Founding Board comprised of fifteen (15) members th
 |-----------------------------------------------------------------------------------------------------------------------------------------------------|------------|
 | Union Sq. Home Owner Seat (owns primary residence in Union Square)                                                                                  | 2          |
 | Union Sq. Renter Seat                                                                                                                               | 3          |
-| Union Sq. Business Owner or Worker Seat                                                                                                             | 3          |
-| Charitable/Religious/Educational/Advocacy/Group or Org. (Open to all formal and informal groups. A group may only run one candidate for this seat.) | 3          |
+| Union Sq. Worker Seat                                                                                                                               | 2          |
+| Union Sq. Business Owner Seat                                                                                                                       | 2          |
+| Charitable/Religious/Educational/Advocacy/Group or Organizations with a physical presence and personnel in Somerville (Open to all formal and informal groups. A group may only run one candidate for this seat.) | 2          |
 | Immigrant Seat (born outside the United States)                                                                                                     | 2          |
 | Open Seat (anyone who lives or works in Union Square)                                                                                               | 2          |
 
@@ -32,4 +52,12 @@ There shall be established a Founding Board comprised of fifteen (15) members th
  Provide a candidate statement with a recent photograph.
 * Submit materials to the USNC Elections Committee by TBD. Materials may be submitted electronically
 to unionsquareneighborhoodcouncil@gmail.com and/or in person at TBD.
+
+### Candidates packets
+
+Candidate packets due electronically or in person or by mail:
+
+* unionsquareneighborhoodcouncil@gmail.com
+* PO Box
+* 58 Columbus Avenue - Bill Gage, 617-623-8328
 
