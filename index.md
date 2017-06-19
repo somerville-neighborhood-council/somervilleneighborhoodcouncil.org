@@ -10,31 +10,30 @@ layout: default
 
 ### GET INVOLVED
 
-* Come to the community meeting
+* Come to the community meetings
 * Meet your neighbors
 * Show we care about our community
 * Learn more about the proposed Council
 * Provide input on the Neighborhood Council role and approach
 * Learn how to run for the first-year board
 
-### COMMUNITY MEETING
+### COMMUNITY MEETINGS
 
 #### WHEN: June 21, 7-9pm
+#### &amp; June 24, 10am-12pm
 #### WHERE: Argenziano School, 290 Washington St
 
 Please help get the word out by distributing these flyers:
 
-* Krey&ograve;l ayisyen: [neighborhood-council-1pager-final-kreyol-ayisyen.pdf](docs/neighborhood-council-1pager-final-kreyol-ayisyen.pdf)
-* Espa&ntilde;ol: [neighborhood-council-1pager-final-espanol.pdf](docs/neighborhood-council-1pager-final-espanol.pdf)
-* Portugu&ecirc;s: [neighborhood-council-1pager-final-portugues.pdf](docs/neighborhood-council-1pager-final-portugues.pdf)
-* English: [neighborhood-council-1pager-final-english.pdf](docs/neighborhood-council-1pager-final-english.pdf)
+* Combined languages (Krey&ograve;l ayisyen, Espa&ntilde;ol, Portugu&ecirc;s, English): [neighborhood-council-1pager-final-combined-3.pdf](docs/neighborhood-council-1pager-final-combined-3.pdf)
+* Combined languages all on one 2-sided sheet (Krey&ograve;l ayisyen, Espa&ntilde;ol, Portugu&ecirc;s, English): [neighborhood-council-1pager-final-combined-3-mini.pdf](docs/neighborhood-council-1pager-final-combined-3-mini.pdf)
 
 ****
 
 ### Timeline
 
-1. USNC-WG holds a broad community meeting **on the 21st of June, at the Argenziano School at 7-9pm**, at which USNC is presented. At a subsequent meeting, a vote will be held to ratify interim board formation, an elections committee is established, board candidates solicited, and the election announced.
-2. The USNC Interim Board Election is held.
+1. **On June 21st at 7-9pm and June 24th at 10am-12pm, at the Argenziano School**, community meetings will be held, and the USNC will be presented. At these two meetings, a vote will be held to ratify the interim board formation, and then an elections committee will be established, board candidates solicited, and the election announced.
+2. **On July 22 at at 12-4pm and July 26 at 4-8pm, at the Argenziano School:** the USNC Interim Board Election is held. The first meeting will also be a Candidates Forum for those running for the Neighborhood Council Board.
 3. Two weeks later the newly elected Board will hold the first Union Square Neighborhood Council Meeting. 
 
 
