@@ -23,7 +23,7 @@ layout: default
 
 The next meeting of the Union Square Neighborhood Council Working Group will be facilitated by Michele Hansen and Father Richard Curran, on:
 
-**Saturday June 8th from 9am to 12 noon**
+### Saturday June 8th from 9am to 12 noon
 
 **At the police station located at [220 Washington St. Union Square](https://goo.gl/maps/DKWAUjQiifw)**
 
