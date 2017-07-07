@@ -91,9 +91,13 @@ As a Working Group we have developed a process of:
 
 ## Email
 
-To get **announcements** about future Working Group meetings, [sign up here](https://groups.google.com/forum/#!forum/usnc-wg-announcements)
+To get **announcements** about future Working Group meetings:
 
-To discuss **details** about a future Union Square Neighborhood Council, [sign up here](https://groups.google.com/forum/#!forum/usnc-wg-discussion)
+[Join the announcements list](https://groups.google.com/forum/#!forum/usnc-wg-announcements)
+
+To discuss **details** about a future Union Square Neighborhood Council
+
+[Join the discussion list](https://groups.google.com/forum/#!forum/usnc-wg-discussion)
 
 ### Committees
 
