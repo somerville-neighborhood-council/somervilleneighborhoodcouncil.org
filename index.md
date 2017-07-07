@@ -17,25 +17,32 @@ layout: default
 * Provide input on the Neighborhood Council role and approach
 * Learn how to run for the first-year board
 
+****
+
 ### COMMUNITY MEETINGS
 
-#### WHEN: June 21, 7-9pm
-#### &amp; June 24, 10am-12pm
-#### WHERE: Argenziano School, 290 Washington St
+The next meeting of the Union Square Neighborhood Council Working Group will be facilitated by Michele Hansen and Father Richard Curran, on:
 
-Please help get the word out by distributing these flyers:
+**Saturday June 8th from 9am to 12 noon**
 
-* Combined languages (Krey&ograve;l ayisyen, Espa&ntilde;ol, Portugu&ecirc;s, English): [neighborhood-council-1pager-final-combined-3.pdf](docs/neighborhood-council-1pager-final-combined-3.pdf)
-* Combined languages all on one 2-sided sheet (Krey&ograve;l ayisyen, Espa&ntilde;ol, Portugu&ecirc;s, English): [neighborhood-council-1pager-final-combined-3-mini.pdf](docs/neighborhood-council-1pager-final-combined-3-mini.pdf)
+**At the police station located at [220 Washington St. Union Square](https://goo.gl/maps/DKWAUjQiifw)**
+
+**Agenda:**
+
+* Introductions  (10 minutes)
+* Discussion of professional facilitation   (20-30 minutes)
+* Timeline for continued outreach, public meetings +picnic, elections/voting   (30 minutes)
+* Break  (10 minutes)
+* Discussion of substantive differences concerning the creation of the Neighborhood Council  
+    * Who can vote                               (15 minutes)
+    * When to vote                               (15 minutes)
+    * Who can be on the board           (15 minutes)
+    * Public or Private organization    (15 minutes)
+
 
 ****
 
-### Timeline
-
-1. **On June 21st at 7-9pm and June 24th at 10am-12pm, at the Argenziano School**, community meetings will be held, and the USNC will be presented. At these two meetings, a vote will be held to ratify the interim board formation, and then an elections committee will be established, board candidates solicited, and the election announced.
-2. **On July 22 at at 12-4pm and July 26 at 4-8pm, at the Argenziano School:** the USNC Interim Board Election is held. The first meeting will also be a Candidates Forum for those running for the Neighborhood Council Board.
-3. Two weeks later the newly elected Board will hold the first Union Square Neighborhood Council Meeting. 
-
+## ABOUT THE PROPOSED COUNCIL
 
 ## VISION
 
@@ -84,4 +91,26 @@ As a Working Group we have developed a process of:
 
 ## Email
 
-Our email discussion list [can be found here](https://groups.google.com/forum/#!forum/locus-pmo-working-group), and upcoming meetings are announced there. 
+To get **announcements** about future Working Group meetings, sign up here: https://groups.google.com/forum/#!forum/usnc-wg-announcements
+
+To discuss **details** about a future Union Square Neighborhood Council, sign up here: https://groups.google.com/forum/#!forum/usnc-wg-discussion
+
+### Committees
+
+If you'd like to be involved with a Working Group Committee, please sign up for the Committees here:
+
+**Structure Committee:** https://groups.google.com/forum/#!forum/usnc-wg-structure
+
+Help figure out the structure of a future Neighborhood Council Board as well as issues of who can vote in a future Neighborhood Council Election: 
+
+**Outreach and Welcome Committee:** https://groups.google.com/forum/#!forum/usnc-wg-outreach
+
+Help spread information about the Union Square Neighborhood Council Working Group throughout the community and help develop short materials for newcomers to easily understand the purposes and goals of a Neighborhood Council.
+
+**Elections Committee:** https://groups.google.com/forum/#!forum/usnc-wg-elections
+
+Help prepare for future elections for a Union Square Neighborhood Council.
+
+**Data and Survey Research Committee:**  https://groups.google.com/forum/#!forum/usnc-wg-data
+
+Look at surveys and other data from the community to understand their questions and concerns about a Neighborhood Council, 
