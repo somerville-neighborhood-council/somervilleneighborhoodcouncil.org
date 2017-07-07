@@ -91,26 +91,15 @@ As a Working Group we have developed a process of:
 
 ## Email
 
-To get **announcements** about future Working Group meetings, sign up here: https://groups.google.com/forum/#!forum/usnc-wg-announcements
+To get **announcements** about future Working Group meetings, [sign up here](https://groups.google.com/forum/#!forum/usnc-wg-announcements)
 
-To discuss **details** about a future Union Square Neighborhood Council, sign up here: https://groups.google.com/forum/#!forum/usnc-wg-discussion
+To discuss **details** about a future Union Square Neighborhood Council, [sign up here](https://groups.google.com/forum/#!forum/usnc-wg-discussion)
 
 ### Committees
 
 If you'd like to be involved with a Working Group Committee, please sign up for the Committees here:
 
-**Structure Committee:** https://groups.google.com/forum/#!forum/usnc-wg-structure
-
-Help figure out the structure of a future Neighborhood Council Board as well as issues of who can vote in a future Neighborhood Council Election: 
-
-**Outreach and Welcome Committee:** https://groups.google.com/forum/#!forum/usnc-wg-outreach
-
-Help spread information about the Union Square Neighborhood Council Working Group throughout the community and help develop short materials for newcomers to easily understand the purposes and goals of a Neighborhood Council.
-
-**Elections Committee:** https://groups.google.com/forum/#!forum/usnc-wg-elections
-
-Help prepare for future elections for a Union Square Neighborhood Council.
-
-**Data and Survey Research Committee:**  https://groups.google.com/forum/#!forum/usnc-wg-data
-
-Look at surveys and other data from the community to understand their questions and concerns about a Neighborhood Council, 
+* [Structure Committee](https://groups.google.com/forum/#!forum/usnc-wg-structure): Help figure out the structure of a future Neighborhood Council Board as well as issues of who can vote in a future Neighborhood Council Election.
+* [Outreach and Welcome Committee](https://groups.google.com/forum/#!forum/usnc-wg-outreach): Help spread information about the Union Square Neighborhood Council Working Group throughout the community and help develop short materials for newcomers to easily understand the purposes and goals of a Neighborhood Council.
+* [Elections Committee](https://groups.google.com/forum/#!forum/usnc-wg-elections): Help prepare for future elections for a Union Square Neighborhood Council.
+* [Data and Survey Research Committee](https://groups.google.com/forum/#!forum/usnc-wg-data): Look at surveys and other data from the community to understand their questions and concerns about a Neighborhood Council, 
