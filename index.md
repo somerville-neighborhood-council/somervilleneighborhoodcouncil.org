@@ -88,6 +88,8 @@ As a Working Group we have developed a process of:
 * Includes Zoning, CBA, Structure &amp; Bylaws subcommittees
 * Voting to approve motions by 2/3 majority
 
+[Read more about meetings](/meetings)
+
 
 ## Email
 
