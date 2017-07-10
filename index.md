@@ -10,7 +10,7 @@ layout: default
 
 ### GET INVOLVED
 
-* Come to the community meetings
+* Come to the [community meetings](/meetings)
 * Meet your neighbors
 * Show we care about our community
 * Learn more about the proposed Council
@@ -39,6 +39,7 @@ The next meeting of the Union Square Neighborhood Council Working Group will be 
     * Who can be on the board           (15 minutes)
     * Public or Private organization    (15 minutes)
 
+[See other upcoming meetings here](/meetings)
 
 ****
 
@@ -75,20 +76,6 @@ The Neighborhood Council Working Group is:
 * Developing Structure, Bylaws, Ratification and Election processes for a formalized, elected Neighborhood Council
 
 ****
-
-## Meetings
-
-As a Working Group we have developed a process of:
-
-* Meeting bi-weekly for 2-3 hours, alternating between weekend mornings and weekday evenings
-* Co-Facilitation and agenda management
-* Formal circulation and approval of meeting minutes
-* Adopting a robust code of conduct
-* Tasking subcommittees with developing materials and making recommendations
-* Includes Zoning, CBA, Structure &amp; Bylaws subcommittees
-* Voting to approve motions by 2/3 majority
-
-[Read more about meetings](/meetings)
 
 
 ## Email
