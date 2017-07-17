@@ -21,23 +21,21 @@ layout: default
 
 ### COMMUNITY MEETINGS
 
-The next meeting of the Union Square Neighborhood Council Working Group will be facilitated by Michele Hansen and Father Richard Curran, on:
+The next meeting of the Union Square Neighborhood Council Working Group will be facilitated by Michele Hansen and Karen Narefsky, on:
 
-### Saturday June 8th from 9am to 12 noon
+### Wednesday, July 19 from 7-9pm
 
 **At the police station located at [220 Washington St. Union Square](https://goo.gl/maps/DKWAUjQiifw)**
 
 **Agenda:**
 
-* Introductions  (10 minutes)
-* Discussion of professional facilitation   (20-30 minutes)
-* Timeline for continued outreach, public meetings +picnic, elections/voting   (30 minutes)
-* Break  (10 minutes)
-* Discussion of substantive differences concerning the creation of the Neighborhood Council  
-    * Who can vote                               (15 minutes)
-    * When to vote                               (15 minutes)
-    * Who can be on the board           (15 minutes)
-    * Public or Private organization    (15 minutes)
+* introductions
+* overview of group purpose and ground rules
+* recap of the last USNC working group meeting
+* report back from the outreach working group
+* scheduling of single-topic meetings, social event, and tentative community meetings
+* brainstorm agendas for single-topic meetings, in small groups
+* overview of CBO, if time
 
 [See other upcoming meetings here](/meetings)
 
