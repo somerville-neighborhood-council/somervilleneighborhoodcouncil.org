@@ -21,21 +21,16 @@ layout: default
 
 ### COMMUNITY MEETINGS
 
-The next meeting of the Union Square Neighborhood Council Working Group will be facilitated by Michele Hansen and Karen Narefsky, on:
+The next meeting of the Union Square Neighborhood Council Working Group will be on:
 
-### Wednesday, July 19 from 7-9pm
+### Wednesday, July 29 from 9am-12pm
 
 **At the police station located at [220 Washington St. Union Square](https://goo.gl/maps/DKWAUjQiifw)**
 
 **Agenda:**
 
-* introductions
-* overview of group purpose and ground rules
-* recap of the last USNC working group meeting
-* report back from the outreach working group
-* scheduling of single-topic meetings, social event, and tentative community meetings
-* brainstorm agendas for single-topic meetings, in small groups
-* overview of CBO, if time
+* What do we want the Neighborhood Council to do?
+* What structure Municipal or Independent works best?
 
 [See other upcoming meetings here](/meetings)
 
