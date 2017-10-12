@@ -21,18 +21,14 @@ layout: default
 
 ### COMMUNITY MEETINGS
 
-The next meeting of the Union Square Neighborhood Council Working Group will be on:
+* **October 17th 7-9pm - Public Presentation 1**
+* **October 21st 10-12pm - Public Presentation 2**
+* **October 23rd - Community vote on Bylaws**
 
-### Wednesday, July 29 from 9am-12pm
+### WORKING GROUP MEETINGS
 
-**At the police station located at [220 Washington St. Union Square](https://goo.gl/maps/DKWAUjQiifw)**
-
-**Agenda:**
-
-* What do we want the Neighborhood Council to do?
-* What structure Municipal or Independent works best?
-
-[See other upcoming meetings here](/meetings)
+* Saturday 10/14 at 10am (either at the police station or in the basement at St. Joseph's Church, still TBD)
+* Wednesday 10/25 at 7pm (at the police station)
 
 ****
 
@@ -73,13 +69,18 @@ The Neighborhood Council Working Group is:
 
 ## Email
 
-To get **announcements** about future Working Group meetings:
+To join the **public announcements list**, click here:
+
+http://tinyletter.com/unionsquareneighborhoodcouncil
+
+To get **Working Group announcements** about future Working Group meetings:
 
 [Join the announcements list](https://groups.google.com/forum/#!forum/usnc-wg-announcements)
 
 To discuss **details** about a future Union Square Neighborhood Council
 
 [Join the discussion list](https://groups.google.com/forum/#!forum/usnc-wg-discussion)
+
 
 ### Committees
 
