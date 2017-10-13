@@ -19,15 +19,19 @@ layout: default
 
 ****
 
-### COMMUNITY MEETINGS
+### COMMUNITY MEETINGS - All to be held at the Somerville Public Safety Building / Police Station, 220 Washington Street
 
-* **October 17th 7-9pm - Public Presentation 1**
-* **October 21st 10-12pm - Public Presentation 2**
-* **October 23rd - Community vote on Bylaws**
+* **October 17th 7-9p - 1st Public Presentation of Proposed Bylaws and Processes / Q&A**
+* **October 21st 10-12p - 2nd Public Presentation of Proposed Bylaws and Processes / Q&A**
 
-### WORKING GROUP MEETINGS
+Both presentations will include the same information, so you don't need to come twice!
 
-* Saturday 10/14 at 10am (either at the police station or in the basement at St. Joseph's Church, still TBD)
+* **October 23rd 7a-8p - Community vote on Bylaws**
+* **December 2 & 6 - Eligible Members as defined in Bylaws, if approved, vote to elect a Council Board**
+
+### UPCOMING WORKING GROUP MEETINGS
+
+* Saturday 10/14 at 10am (in the basement at St. Joseph's Church)
 * Wednesday 10/25 at 7pm (at the police station)
 
 ****
@@ -69,17 +73,11 @@ The Neighborhood Council Working Group is:
 
 ## Email
 
-To join the **public announcements list**, click here:
+To join the **public announcements list**, click here: http://tinyletter.com/unionsquareneighborhoodcouncil
 
-http://tinyletter.com/unionsquareneighborhoodcouncil
+To get **Working Group announcements** about future Working Group meetings, [join the announcements list](https://groups.google.com/forum/#!forum/usnc-wg-announcements)
 
-To get **Working Group announcements** about future Working Group meetings:
-
-[Join the announcements list](https://groups.google.com/forum/#!forum/usnc-wg-announcements)
-
-To discuss **details** about a future Union Square Neighborhood Council
-
-[Join the discussion list](https://groups.google.com/forum/#!forum/usnc-wg-discussion)
+To discuss **details** about a future Union Square Neighborhood Council, [join the discussion list](https://groups.google.com/forum/#!forum/usnc-wg-discussion)
 
 
 ### Committees
@@ -89,4 +87,5 @@ If you'd like to be involved with a Working Group Committee, please sign up for 
 * [Structure Committee](https://groups.google.com/forum/#!forum/usnc-wg-structure): Help figure out the structure of a future Neighborhood Council Board as well as issues of who can vote in a future Neighborhood Council Election.
 * [Outreach and Welcome Committee](https://groups.google.com/forum/#!forum/usnc-wg-outreach): Help spread information about the Union Square Neighborhood Council Working Group throughout the community and help develop short materials for newcomers to easily understand the purposes and goals of a Neighborhood Council.
 * [Elections Committee](https://groups.google.com/forum/#!forum/usnc-wg-elections): Help prepare for future elections for a Union Square Neighborhood Council.
+* [Presentations Committee](https://groups.google.com/forum/#!forum/usnc-wg-presentations): Help prepare for public presentations.
 * [Data and Survey Research Committee](https://groups.google.com/forum/#!forum/usnc-wg-data): Look at surveys and other data from the community to understand their questions and concerns about a Neighborhood Council, 
