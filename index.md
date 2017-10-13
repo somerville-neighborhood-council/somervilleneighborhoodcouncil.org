@@ -73,11 +73,11 @@ The Neighborhood Council Working Group is:
 
 ## Email
 
-To join the **public announcements list**, click here: http://tinyletter.com/unionsquareneighborhoodcouncil
+To join the **major announcements list** and be notified about major upcoming events, sign up for the newsletter here: [major announcements list](http://tinyletter.com/unionsquareneighborhoodcouncil)
 
-To get **Working Group announcements** about future Working Group meetings, [join the announcements list](https://groups.google.com/forum/#!forum/usnc-wg-announcements)
+To receive **Working Group announcements** about future Working Group meetings, [join the Working Group announcements list](https://groups.google.com/forum/#!forum/usnc-wg-announcements)
 
-To discuss **details** about a future Union Square Neighborhood Council, [join the discussion list](https://groups.google.com/forum/#!forum/usnc-wg-discussion)
+To join the online discussion around the **details** of the future Union Square Neighborhood Council, [join the discussion list](https://groups.google.com/forum/#!forum/usnc-wg-discussion)
 
 
 ### Committees
