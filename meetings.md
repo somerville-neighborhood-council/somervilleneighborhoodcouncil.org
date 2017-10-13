@@ -2,9 +2,9 @@
 title: Meetings
 ---
 
-## Location
+## Location and Logistics
 
-Meetings have been happening regularly (every 10 days) at the police station located at [220 Washington St. Union Square](https://goo.gl/maps/DKWAUjQiifw). Contact the [email lists](/#email) to learn more.
+Meetings have been happening roughly every 10 days at the police station located at [220 Washington St. Union Square](https://goo.gl/maps/DKWAUjQiifw). Contact the [email lists](/#email) to learn more.
 
 ## Process
 
