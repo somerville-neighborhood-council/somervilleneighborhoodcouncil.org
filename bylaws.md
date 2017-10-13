@@ -29,5 +29,5 @@ Open to all stakeholders over 16, has voting rights in elections of the Founding
 
 ## Full documents
 
-Download the June 10, 2017 bylaws here: [usnc-interim-bylaws-06-10-17.pdf](docs/usnc-interim-bylaws-06-10-17.pdf)
+Read the October 2017 bylaws here: [October 2017 Bylaws Google Doc](https://docs.google.com/document/d/1uf6hVFaPQ8aXF5Ectis_0E4kZJfudzCAczJdVcZ6YAc/edit)
 
