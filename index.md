@@ -22,7 +22,7 @@ layout: default
 ### COMMUNITY MEETINGS - All to be held at the Somerville Public Safety Building / Police Station, 220 Washington Street
 
 * **October 17th 7-9p - 1st Public Presentation of Proposed Bylaws and Processes / Q&A**
-* **October 21st 10-12p - 2nd Public Presentation of Proposed Bylaws and Processes / Q&A**
+* **October 21st 10a-12p - 2nd Public Presentation of Proposed Bylaws and Processes / Q&A**
 
 Both presentations will include the same information, so you don't need to come twice!
 
