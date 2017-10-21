@@ -7,31 +7,17 @@ layout: default
 
 **The redevelopment that will transform our neighborhood is just beginning.** Residents, business people, and city officials have been working together to plan a Neighborhood Council to influence this transformation.
 
-
-### GET INVOLVED
-
-* Come to the [community meetings](/meetings)
-* Meet your neighbors
-* Show we care about our community
-* Learn more about the proposed Council
-* Provide input on the Neighborhood Council role and approach
-* Learn how to run for the first-year board
+[This presentation](https://docs.google.com/presentation/d/1Zg0cbAL8Zn12frl1hJm0Oea_zTw3LIJonKnc3XzIJFM/edit#slide=id.p) provides an overview of the Working Group and the decisons made so far.
 
 ****
 
-### COMMUNITY MEETINGS - All to be held at the Somerville Public Safety Building / Police Station, 220 Washington Street
+### MAJOR UPCOMING EVENTS 
 
-* **October 17th 7-9p - 1st Public Presentation of Proposed Bylaws and Processes / Q&A**
-* **October 21st 10a-12p - 2nd Public Presentation of Proposed Bylaws and Processes / Q&A**
-
-Both presentations will include the same information, so you don't need to come twice!
-
-* **October 23rd 7a-8p - Community vote on Bylaws**
+* **October 23rd 7a-8p - Community vote on [Bylaws](https://docs.google.com/document/d/1uf6hVFaPQ8aXF5Ectis_0E4kZJfudzCAczJdVcZ6YAc/edit)** - To be held at the Somerville Public Safety Building / Police Station, 220 Washington Street. Yes, that's 7am to 8pm - there will be a ballot box for you to drop a vote into.
 * **December 2 & 6 - Eligible Members as defined in Bylaws, if approved, vote to elect a Council Board**
 
 ### UPCOMING WORKING GROUP MEETINGS
 
-* Saturday 10/14 at 10am (in the basement at St. Joseph's Church)
 * Wednesday 10/25 at 7pm (at the police station)
 
 ****
