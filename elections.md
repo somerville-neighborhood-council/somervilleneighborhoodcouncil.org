@@ -20,6 +20,6 @@ As described in the bylaws:
 
 *The master developer shall not have an employee, representative, or consultant on the board of the Neighborhood Council. If a board member becomes an employee, representative, or paid consultant of an active Union Square developer during their term, they will be replaced by the process described in Section 3.3.5.*
 
-**Do you want to run for the Council Board?**
+### Do you want to run for the Council Board?
 
 **Candidate packets are currently being reviewed and proofed and will be uploaded to this page within the next couple business days.** When uploaded, an announcement will be sent, so sign up at tinyletter.com/unionsquareneighborhoodcouncil to receive that notification and others.
