@@ -72,7 +72,7 @@ To join the online discussion around the **details** of the future Union Square 
 
 If you'd like to be involved with a Working Group Committee, please sign up for the mailing lists below. **The Outreach and Elections Committees are the most critical in the coming months** so please consider joining them if you want to help out!
 
-~~ * Structure Committee: Help figure out the structure of a future Neighborhood Council Board as well as issues of who can vote in a future Neighborhood Council Election. ~~ This committee has done its job, so we can consider it defunct.
+~~* Structure Committee: Help figure out the structure of a future Neighborhood Council Board as well as issues of who can vote in a future Neighborhood Council Election.~~ This committee has done its job, so we can consider it defunct.
 * [Outreach and Welcome Committee](https://groups.google.com/forum/#!forum/usnc-wg-outreach): Help spread information about the Union Square Neighborhood Council Working Group throughout the community and help develop short materials for newcomers to easily understand the purposes and goals of a Neighborhood Council.
 * [Elections Committee](https://groups.google.com/forum/#!forum/usnc-wg-elections): Help prepare for future elections for a Union Square Neighborhood Council.
 * [Presentations Committee](https://groups.google.com/forum/#!forum/usnc-wg-presentations): Help prepare for public presentations.
