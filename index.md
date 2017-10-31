@@ -13,14 +13,14 @@ layout: default
 
 ## Major Upcoming Events 
 
-* November 9th - Deadline for candidates to submit their [elections packet](https://github.com/union-square-neighborhood-council/unionsquareneighborhoodcouncil.org/blob/master/USNC%20October%202017%20Elections%20Packet%20FINAL.pdf) to be eligible (see below)
+* November 9th - Deadline for candidates to submit their [elections packet](http://unionsquareneighborhoodcouncil.org/USNC%20October%202017%20Elections%20Packet%20FINAL.pdf) to be eligible (see below)
 * December 2 & 6 - Eligible Members as defined in Bylaws,vote to elect a Council Board
 
 ****
 
 ## Do You Want to Run for the Council Board?
 
-* Download the [elections packet](https://github.com/union-square-neighborhood-council/unionsquareneighborhoodcouncil.org/blob/master/USNC%20October%202017%20Elections%20Packet%20FINAL.pdf), complete it, and return it to the Election Committee - either digitally at [UnionSquareNeighborhoodCouncil@gmail.com](mailto:unionsquareneighborhoodcouncil@gmail.com) or mailed to P.O. Box 48, Somerville MA 02143. **The deadline for candidates to apply is November 9th (email received or candidate packet postmarked).** Good luck!
+* Download the [elections packet](http://unionsquareneighborhoodcouncil.org/USNC%20October%202017%20Elections%20Packet%20FINAL.pdf), complete it, and return it to the Election Committee - either digitally at [UnionSquareNeighborhoodCouncil@gmail.com](mailto:unionsquareneighborhoodcouncil@gmail.com) or mailed to P.O. Box 48, Somerville MA 02143. **The deadline for candidates to apply is November 9th (email received or candidate packet postmarked).** Good luck!
 
 ****
 
