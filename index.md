@@ -3,7 +3,7 @@ title: Union Square Neighborhood Council
 layout: default
 ---
 
-## WHAT IS IT?
+## What Is It?
 
 **The redevelopment that will transform our neighborhood is just beginning.** Residents, business people, and city officials have been working together to plan a Neighborhood Council to influence this transformation.
 
@@ -11,20 +11,20 @@ layout: default
 
 ****
 
-## MAJOR UPCOMING EVENTS 
+## Major Upcoming Events 
 
 * November 9th - Deadline for candidates to submit [candidacy papers](https://github.com/union-square-neighborhood-council/unionsquareneighborhoodcouncil.org/blob/master/USNC%20October%202017%20Elections%20Packet%20FINAL.pdf) (see below)**
 * December 2 & 6 - Eligible Members as defined in Bylaws,vote to elect a Council Board**
 
 ****
 
-## DO YOU WANT TO RUN FOR THE COUNCIL BOARD?
+## Do You Want to Run for the Council Board?
 
 * Download the [elections packet](https://github.com/union-square-neighborhood-council/unionsquareneighborhoodcouncil.org/blob/master/USNC%20October%202017%20Elections%20Packet%20FINAL.pdf), complete it, and return it to the Election Committee - either digitally at [UnionSquareNeighborhoodCouncil@gmail.com](mailto:unionsquareneighborhoodcouncil@gmail.com) or mailed to P.O. Box 48, Somerville MA 02143. **The deadline for candidates to apply is November 9th (email received or candidate packet postmarked).** Good luck!
 
 ****
 
-## UPCOMING WORKING GROUP MEETINGS
+## Upcoming Working Group Meetings
 
 * November 4th, 9am-12pm (at the police station)
 
@@ -32,7 +32,7 @@ The bulk of the major work for the Neighborhood Council in the coming weeks will
 
 ****
 
-## ABOUT THE PROPOSED COUNCIL
+## About the Proposed Council
 
 ### Vision
 
@@ -52,7 +52,7 @@ Our Goals are to build community, empower members of the community, minimize dis
 
 ****
 
-## WHO ARE WE?
+## Who Are We?
 
 The Neighborhood Council Working Group is:
 
@@ -65,7 +65,7 @@ The Neighborhood Council Working Group is:
 
 ****
 
-## EMAIL
+## Email
 
 To join the **major announcements list** and be notified about major upcoming events, sign up for the newsletter here: [major announcements list](http://tinyletter.com/unionsquareneighborhoodcouncil)
 
@@ -74,7 +74,7 @@ To receive **Working Group announcements** about future Working Group meetings, 
 To join the online discussion around the **details** of the future Union Square Neighborhood Council, [join the discussion list](https://groups.google.com/forum/#!forum/usnc-wg-discussion)
 
 
-## COMMITTEES
+## Committee
 
 If you'd like to be involved with a Working Group Committee, please sign up for the mailing lists below. **The Outreach and Elections Committees are the most critical in the coming months** so please consider joining them if you want to help out!
 
