@@ -18,7 +18,7 @@ layout: default
 
 ****
 
-## RUN FOR THE COUNCIL BOARD!
+## DO YOU WANT TO RUN FOR THE COUNCIL BOARD?
 
 * Download the [elections packet](https://github.com/union-square-neighborhood-council/unionsquareneighborhoodcouncil.org/blob/master/USNC%20October%202017%20Elections%20Packet%20FINAL.pdf), complete it, and return it to the Election Committee - either digitally at [UnionSquareNeighborhoodCouncil@gmail.com](mailto:unionsquareneighborhoodcouncil@gmail.com) or mailed to P.O. Box 48, Somerville MA 02143. **The deadline for candidates to apply is November 9th (email received or candidate packet postmarked).** Good luck!
 
