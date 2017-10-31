@@ -13,7 +13,7 @@ layout: default
 
 ## Major Upcoming Events 
 
-* November 9th - Deadline for candidates to submit [candidacy papers](https://github.com/union-square-neighborhood-council/unionsquareneighborhoodcouncil.org/blob/master/USNC%20October%202017%20Elections%20Packet%20FINAL.pdf) (see below)
+* November 9th - Deadline for candidates to submit their [elections packet](https://github.com/union-square-neighborhood-council/unionsquareneighborhoodcouncil.org/blob/master/USNC%20October%202017%20Elections%20Packet%20FINAL.pdf) to be eligible (see below)
 * December 2 & 6 - Eligible Members as defined in Bylaws,vote to elect a Council Board
 
 ****
