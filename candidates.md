@@ -11,4 +11,4 @@ The Union Square Neighborhood Council will have a board of 15 members, for a ter
 
 ## Candidate Statements and Biographies
 
-Once all candidates have submitted their [elections packet](https://github.com/union-square-neighborhood-council/unionsquareneighborhoodcouncil.org/blob/master/USNC%20October%202017%20Elections%20Packet%20FINAL.pdf), their candidate statements, biographies, and eligibilities will be posted here for voters to read.
+After the candidates have submitted their [elections packet](https://github.com/union-square-neighborhood-council/unionsquareneighborhoodcouncil.org/blob/master/USNC%20October%202017%20Elections%20Packet%20FINAL.pdf), we'll post the candidate statements, biographies, and eligibility categories here for voters to read.
