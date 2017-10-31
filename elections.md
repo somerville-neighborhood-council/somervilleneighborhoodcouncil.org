@@ -1,7 +1,7 @@
 ---
 title: Elections
 ---
-## ELECTIONS
+## Elections
 
 In accordance with the [bylaws](https://docs.google.com/document/d/1uf6hVFaPQ8aXF5Ectis_0E4kZJfudzCAczJdVcZ6YAc/edit) ratified on October 23rd, elections for the Council board will take place via a public vote:
 
@@ -12,7 +12,7 @@ Voting will take place at the Somerville Police Station/Public Safety Building, 
 
 All election-related information, including voting and tabulation methodology, can be found thoroughly detailed in the bylaws and in the candidate packet (see more below).
 
-## CANDIDATES AND ELIGIBILITY
+## Candidates and Eligibility
 
 As described in the bylaws:
 
@@ -20,6 +20,6 @@ As described in the bylaws:
 
 *The master developer shall not have an employee, representative, or consultant on the board of the Neighborhood Council. If a board member becomes an employee, representative, or paid consultant of an active Union Square developer during their term, they will be replaced by the process described in Section 3.3.5.*
 
-### Do you want to run for the Council Board?
+### Do You Want to Run for the Council Board?
 
 **The deadline for application is November 9th (email received or candidate packet postmarked). Download the [elections packet](https://github.com/union-square-neighborhood-council/unionsquareneighborhoodcouncil.org/blob/master/USNC%20October%202017%20Elections%20Packet%20FINAL.pdf), complete it, and return it to the Election Committee either digitally at UnionSquareNeighborhoodCouncil@gmail.com or mail it to P.O. Box 48, Somerville MA 02143..** Good luck!
