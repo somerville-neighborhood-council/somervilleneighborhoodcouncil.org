@@ -26,7 +26,7 @@ layout: default
 
 ## Upcoming Working Group Meetings
 
-* November 4th, 9am-12pm (at the police station)
+* November 13th, 7pm-9pm (at the police station)
 
 The bulk of the major work for the Neighborhood Council in the coming weeks will take place at the subcommittee level - particularly Elections and Outreach. If you would like to join either (or both!) of those committees, check them out [here](#committees).
 
