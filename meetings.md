@@ -20,4 +20,4 @@ As a Working Group we have developed a process of:
 
 ## Next Working Group Meetings
 
-* **11/4 9am-12pm**
+* **11/13 7pm-9pm**
