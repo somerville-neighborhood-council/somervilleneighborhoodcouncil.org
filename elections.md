@@ -22,4 +22,4 @@ As described in the bylaws:
 
 ### Do You Want to Run for the Council Board?
 
-**The deadline for application is November 9th (email received or candidate packet postmarked). Download the [elections packet](http://unionsquareneighborhoodcouncil.org/USNC%20October%202017%20Elections%20Packet%20FINAL.pdf), complete it, and return it to the Election Committee either digitally at UnionSquareNeighborhoodCouncil@gmail.com or mail it to P.O. Box 48, Somerville MA 02143.** Good luck!
+**The deadline for application is November 13th (email received or candidate packet postmarked). Download the [elections packet](http://unionsquareneighborhoodcouncil.org/USNC%20October%202017%20Elections%20Packet%20FINAL.pdf), complete it, and return it to the Election Committee either digitally at UnionSquareNeighborhoodCouncil@gmail.com or mail it to P.O. Box 48, Somerville MA 02143.** Good luck!
