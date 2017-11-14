@@ -13,8 +13,8 @@ layout: default
 
 ## Major Upcoming Events 
 
-* November 18, 3-5pm - Candidates Forum at Argenziano School (290 Washington Street)
-* December 2 & 6 - Eligible Members as defined in Bylaws,vote to elect a Council Board
+* **November 18, 3-5pm** - Candidates Forum at Argenziano School (290 Washington Street) - Come to this public event and meet the candidates for the first Council Board!
+* **December 2 & 6** - Eligible Members, as defined in Bylaws, vote to elect a Council Board
 
 ****
 
