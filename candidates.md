@@ -11,4 +11,47 @@ From 3-5pm on November 18th, there will be a candidates forum at Argenziano Scho
 
 ## Candidate Statements and Biographies
 
-We'll post candidate statements, biographies, eligibility categories, and videos here after the Candidates Forum.
+Here's a list of the folks who have applied as candidates for the first Council Board. We'll post candidate statements, short biographies, eligibility categories, and more here soon!
+
+* Dave Ahouse
+* Afruza	Akther
+* Tori	Antonino
+* Ben	Baldwin
+* Zach	Baum
+* Joanne	Berry
+* Sean	Bradley
+* Ben	Bradlow
+* Derek	Brain
+* Sandra	Brown
+* Ann	Camara
+* Bill	Cavellini
+* Richard	Curran
+* Kyle	Emge
+* Laurie	Ewer
+* Mike	Firestone
+* Andy	Greenspon
+* Michele	Hansen
+* Peter	Insley
+* Jacob	Kramer
+* Abdul	Latif
+* Andrea	Lizama
+* Nisa	Marks
+* Rose	Mattos
+* Athena	Moore
+* Erik	Neu
+* Robert	Rendon
+* Cheri	Ruane
+* Kim	Selwitz
+* Bill	Shelton
+* Stacey	Simon
+* Scott	Smith
+* Tim	Talun
+* Pennie	Taylor
+* Lhadon	Tethong
+* John	Thompson
+* Dennis	Tourse
+* Ganesh	Uprety
+* Aaron	Weber
+* Rachel	Weil
+* Adam	Wylie
+* Eric	Yanovsky
