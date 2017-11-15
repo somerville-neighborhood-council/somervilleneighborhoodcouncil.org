@@ -31,6 +31,7 @@ Here's a list of the folks who have applied as candidates for the first Council 
 * Mike	Firestone
 * Andy	Greenspon
 * Michele	Hansen
+* Matthew Hoey
 * Peter	Insley
 * Jacob	Kramer
 * Abdul	Latif
