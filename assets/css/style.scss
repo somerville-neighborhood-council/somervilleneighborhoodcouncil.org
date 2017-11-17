@@ -13,7 +13,7 @@ html {
 body {
   background: none;
   padding: 10px auto;
-  max-width: 1000px !important;
+  max-width: 900px !important;
   margin: 10px auto;
 }
 
@@ -95,6 +95,10 @@ footer {
   padding: 40px;
   text-align: center;
   font-family: 'Arvo', serif;
+}
+
+tr {
+  max-width: 1000px;
 }
 
 td {
