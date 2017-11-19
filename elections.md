@@ -10,7 +10,7 @@ In accordance with the [bylaws](https://docs.google.com/document/d/1uf6hVFaPQ8aX
 
 Voting will take place at the Somerville Police Station/Public Safety Building, at 220 Washington Street.
 
-All election-related information, including voting and tabulation methodology, can be found thoroughly detailed in the aforementioned bylaws and in the [elections packet](https://unionsquareneighborhoodcouncil.org/USNC%20October%202017%20Elections%20Packet%20FINAL.pdf).
+All election-related information, including voting and tabulation methodology, can be found thoroughly detailed in the aforementioned bylaws and in the [elections packet](unionsquareneighborhoodcouncil.org/USNC%20October%202017%20Elections%20Packet%20FINAL.pdf).
 
 ## Candidates and Eligibility
 
