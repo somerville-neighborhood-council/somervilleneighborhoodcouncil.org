@@ -5,6 +5,14 @@ layout: default
 
 ## About the Proposed Council
 
+### What Is It?
+
+**The redevelopment that will transform our neighborhood is just beginning.** Residents, business people, and city officials have been working together to plan a Neighborhood Council to influence this transformation.
+
+[This presentation](https://docs.google.com/presentation/d/1Zg0cbAL8Zn12frl1hJm0Oea_zTw3LIJonKnc3XzIJFM/edit#slide=id.p) provides an overview of the Working Group and the decisons made so far.
+
+*****
+
 ### Vision
 
 Our Vision for Union Square is a thriving, engaged, enjoyable, inclusive, sustainable, diverse urban neighborhood and vibrant commercial center. 
