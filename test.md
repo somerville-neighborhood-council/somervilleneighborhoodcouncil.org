@@ -18,7 +18,7 @@ layout: default
 
 Voting will take place at the Somerville Police Station/Public Safety Building, at 220 Washington Street. Anyone 16 or older, who lives inside the official Union Square boundaries, is eligible to vote. Have a look at the candidates [here](/candidates).
 
-![union square neighborhood boundaries map](https://unionsquareneighborhoodcouncil.org/unionsquareboundaries.png)
+![union square neighborhood boundaries map](https://unionsquareneighborhoodcouncil.org/unionsquareboundaries.png "Union Square Boundaries")
 
 ****
 
