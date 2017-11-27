@@ -3,7 +3,7 @@ title: Union Square Neighborhood Council
 layout: default
 ---
 
-## What Is It?
+## What is the Neighborhood Council?
 
 **The redevelopment that will transform our neighborhood is just beginning.** Residents, business people, and city officials have been working together to plan a Neighborhood Council to influence this transformation.
 
@@ -11,9 +11,14 @@ layout: default
 
 ****
 
-## Major Upcoming Events 
+## Council Board Elections are coming soon!
 
-* **December 2 & 6** - Eligible Members - anyone 16 or older, who lives in Union Square - to vote to elect a Council Board
+* December 2nd, 10am-2pm
+* December 6th, 8am-7pm
+
+Voting will take place at the Somerville Police Station/Public Safety Building, at 220 Washington Street. Anyone 16 or older, who lives inside the official Union Square boundaries, is eligible to vote. Have a look at the candidates [here](/candidates).
+
+![union square neighborhood boundaries map](https://unionsquareneighborhoodcouncil.org/unionsquareboundaries.png)
 
 ****
 
