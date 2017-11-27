@@ -22,14 +22,26 @@ Before you go to vote:
 * Have a look at the [candidates](/candidates).
 * Make sure to bring **one of the following** as proof of eligibility:
    * government ID (such as a driver's license)
-   * a piece of mail to your address within the stated boundaries of Union Square (see below), school documents demonstrating Union Square-neighborhood boundaries enrollment, utility bill, pay stub from a Union Square business, rent or mortgage receipt, lease, letter from employer based in Union Square, business card with your name on it from a business based in Union Square, deed, tax bill
+   * a piece of mail to your address within the stated boundaries of Union Square (see below)
+   * school documents demonstrating Union Square-neighborhood boundaries enrollment
+   * utility bill
+   * pay stub from a Union Square business
+   * rent or mortgage receipt
+   * lease
+   * letter from employer based in Union Square
+   * business card with your name on it from a business based in Union Square
+   * deed
+   * tax bill
+
+## Union Square Neighborhood Boundaries Map
 
 ![Union Square Neighborhood Boundaries Map](http://unionsquareneighborhoodcouncil.org/unionsquareboundaries.png "Neighborhood boundaries")
 
 ****
 
-## Email
+## Staying Informed
 
+### Email
 To join the **major announcements list** and be notified about major upcoming events, sign up for the newsletter here: [major announcements list](http://tinyletter.com/unionsquareneighborhoodcouncil)
 
 To receive **Working Group announcements** about future Working Group meetings, [join the Working Group announcements list](https://groups.google.com/forum/#!forum/usnc-wg-announcements)
@@ -37,7 +49,7 @@ To receive **Working Group announcements** about future Working Group meetings, 
 To join the online discussion around the **details** of the future Union Square Neighborhood Council, [join the discussion list](https://groups.google.com/forum/#!forum/usnc-wg-discussion)
 
 
-## Committee
+### Committees
 
 If you'd like to be involved with a Working Group Committee, please sign up for the mailing lists below. **The Outreach and Elections Committees are the most critical in the coming months** so please consider joining them if you want to help out!
 
