@@ -21,8 +21,8 @@ layout: default
 Before you go to vote:
 * Have a look at the [candidates](/candidates).
 * Make sure to bring **one of the following** as proof of eligibility:
-... * government ID (such as a driver's license)
-... * a piece of mail to your address within the stated boundaries of Union Square (see below), school documents demonstrating Union Square-neighborhood boundaries enrollment, utility bill, pay stub from a Union Square business, rent or mortgage receipt, lease, letter from employer based in Union Square, business card with your name on it from a business based in Union Square, deed, tax bill
+   * government ID (such as a driver's license)
+   * a piece of mail to your address within the stated boundaries of Union Square (see below), school documents demonstrating Union Square-neighborhood boundaries enrollment, utility bill, pay stub from a Union Square business, rent or mortgage receipt, lease, letter from employer based in Union Square, business card with your name on it from a business based in Union Square, deed, tax bill
 
 ![Union Square Neighborhood Boundaries Map](http://unionsquareneighborhoodcouncil.org/unionsquareboundaries.png "Neighborhood boundaries")
 
