@@ -20,6 +20,7 @@ layout: default
 
 ### Before you vote:
 * Have a look at the [candidates](/candidates).
+* Review the [ballot](http://unionsquareneighborhoodcouncil.org/docs/Ballot_final.pdf) to see how the voting process will work and how the votes will be tabulated
 * Make sure to bring **one of the following** as proof of eligibility:
    * government ID (such as a driver's license)
    * a piece of mail to your address within the stated boundaries of Union Square (see map below)
