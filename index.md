@@ -24,7 +24,6 @@ layout: default
 * Make sure to bring **one of the following** as proof of eligibility:
    * government ID (such as a driver's license)
    * a piece of mail to your address within the stated boundaries of Union Square (see map below)
-   * school documents demonstrating Union Square-neighborhood boundaries enrollment
    * utility bill
    * pay stub from a Union Square business
    * rent or mortgage receipt
