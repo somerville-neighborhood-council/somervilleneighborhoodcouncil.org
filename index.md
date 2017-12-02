@@ -16,7 +16,7 @@ layout: default
 * December 2nd, 10am-2pm
 * December 6th, 7am-8pm
 
-**Voting will take place at the Somerville Police Station/Public Safety Building, at 220 Washington Street. Anyone 16 or older who lives inside the official Union Square boundaries (see map below) is eligible to vote.**
+**Voting will take place at the Somerville Police Station/Public Safety Building, at 220 Washington Street. Anyone 16 or older who lives or works inside the official Union Square boundaries (see map below) is eligible to vote.**
 
 ### Before you vote:
 * Have a look at the [candidates](/candidates).
