@@ -2,7 +2,7 @@
 title: Union Square Neighborhood Council
 layout: default
 ---
-<h4><span style="color:red">Special announcement: Once voting is complete, ballots will be tabulated by Election Committee volunteers and results will be posted here, sent to the [newsletter](http://tinyletter.com/unionsquareneighborhoodcouncil), and posted on the [USNCWG Facebook page](https://www.facebook.com/USNCWG/) as promptly as possible. This process will take a little while due to careful counting and cross-referencing - so depending on turnout they might not be posted this evening - but rest assured that they will be made available as soon as the count is complete. Thanks for your patience and thank you for voting!</span></h4>
+<h4><span style="color:red">Special announcement: Once voting is complete, ballots will be tabulated by Election Committee volunteers and results will be posted here, sent to the <a href="http://tinyletter.com/unionsquareneighborhoodcouncil">newsletter subscribers</a>, and posted on the <a href="https://www.facebook.com/USNCWG/">Facebook page</a> as promptly as possible. This process will take a little while due to careful counting and cross-referencing - so depending on turnout they might not be posted this evening - but rest assured that they will be made available as soon as the count is complete. Thanks for your patience and thank you for voting!</span></h4>
 
 ## What is the Neighborhood Council?
 
