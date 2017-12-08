@@ -2,7 +2,7 @@
 title: Union Square Neighborhood Council
 layout: default
 ---
-<span style="color:red">Special announcement: Once voting is complete, ballots will be tabulated by Election Committee volunteers and results will be posted here, sent to the <a href="http://tinyletter.com/unionsquareneighborhoodcouncil">newsletter subscribers</a>, and posted on the <a href="https://www.facebook.com/USNCWG/">Facebook page</a> as promptly as possible. This process will take a little while due to careful counting and cross-referencing - so depending on turnout they might not be posted this evening - but rest assured that they will be made available as soon as the count is complete. Thanks for your patience and thank you for voting!</span>
+<span style="color:red">Special announcement: Voting is complete and votes are currently being tabulated by Election Committee volunteers. Hopefully results will be ready today, but there was a large turnout - which is wonderful - so please be patient! Results will be posted here, sent to the <a href="http://tinyletter.com/unionsquareneighborhoodcouncil">newsletter subscribers</a>, and posted on the <a href="https://www.facebook.com/USNCWG/">Facebook page</a> as promptly as possible once they're available. Thank you for voting!</span>
 
 ## What is the Neighborhood Council?
 
@@ -12,31 +12,7 @@ layout: default
 
 ****
 
-## Council Board Elections are coming soon!
-
-* December 2nd, 10am-2pm
-* December 6th, 7am-8pm
-
-**Voting will take place at the Somerville Police Station/Public Safety Building, at 220 Washington Street. Anyone 16 or older who lives or works inside the official Union Square boundaries (see map below) is eligible to vote.**
-
-### Before you vote:
-* Have a look at the [candidates](/candidates).
-* Review the [ballot](http://unionsquareneighborhoodcouncil.org/docs/Ballot_final.pdf) to see how the voting process will work and how the votes will be tabulated
-* Make sure to bring **one of the following** as proof of eligibility:
-   * government ID (such as a driver's license)
-   * a piece of mail to your address within the stated boundaries of Union Square (see map below)
-   * utility bill
-   * pay stub from a Union Square business
-   * rent or mortgage receipt
-   * lease
-   * letter from employer based in Union Square
-   * business card with your name on it from a business based in Union Square
-   * deed
-   * tax bill
-
-## Union Square Neighborhood Boundaries Map
-
-![Union Square Neighborhood Boundaries Map](http://unionsquareneighborhoodcouncil.org/unionsquareboundaries.png "Neighborhood boundaries")
+## Council Board Elections are ~~coming soon~~ over! Results will be posted as soon as counting is complete. Thank you for voting!
 
 ****
 
