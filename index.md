@@ -2,7 +2,29 @@
 title: Union Square Neighborhood Council
 layout: default
 ---
-<span style="color:red">Special announcement: Voting is complete and votes are currently being tabulated by Election Committee volunteers. Hopefully results will be ready today, but there was a large turnout - which is wonderful - so please be patient! Results will be posted here, sent to the <a href="http://tinyletter.com/unionsquareneighborhoodcouncil">newsletter subscribers</a>, and posted on the <a href="https://www.facebook.com/USNCWG/">Facebook page</a> as promptly as possible once they're available. Thank you for voting!</span>
+## Election Results
+
+The results for the first USNC Board Election are in, and the Founding Board is as follows:
+
+* Afruza Akther
+* Ann Camara
+* Andrea Lizama
+* Mike Firestone
+* Bill Cavellini
+* Michele Hansen
+* Pennie Taylor
+* Rachel Weil
+* Ben Baldwin
+* Ganesh Uprety
+* Jacob Kramer
+* Tori Antonino
+* Ben Bradlow
+* Joanne Berry
+* Erik Neu
+
+The complete results tabulation is available here in PDF form: [complete USNC Election totals](http://unionsquareneighborhoodcouncil.org/docs/NC%20Voting%20Master.pdf)
+
+Congratulations to the winners and thank you to all candidates and voters! 
 
 ## What is the Neighborhood Council?
 
@@ -11,11 +33,6 @@ layout: default
 [This presentation](https://docs.google.com/presentation/d/1Zg0cbAL8Zn12frl1hJm0Oea_zTw3LIJonKnc3XzIJFM/edit#slide=id.p) provides an overview of the Working Group and the decisons made so far.
 
 ****
-
-## Council Board Elections are ~~coming soon~~ over! Results will be posted as soon as counting is complete. Thank you for voting!
-
-****
-
 ## Staying Informed
 
 ### Email
