@@ -3,7 +3,9 @@ title: Candidates
 ---
 ## Candidates
 
-The Union Square Neighborhood Council will have a board of 15 members, for a term of one year, to be elected over the course of two days of voting: December 2nd, and December 6th, 2017.
+~~The Union Square Neighborhood Council will have a board of 15 members, for a term of one year, to be elected over the course of two days of voting: December 2nd, and December 6th, 2017.~~
+
+The election is over, but just for reference, here are all the candidates who ran.
 
 ## Candidate Names, Eligibilities, and Statements
 
