@@ -3,14 +3,16 @@ title: Elections
 ---
 ## Elections and Election Methodology
 
-In accordance with the [bylaws](https://docs.google.com/document/d/1uf6hVFaPQ8aXF5Ectis_0E4kZJfudzCAczJdVcZ6YAc/edit) ratified on October 23rd, elections for the Council board will take place via a public vote:
+~~In accordance with the [bylaws](https://docs.google.com/document/d/1uf6hVFaPQ8aXF5Ectis_0E4kZJfudzCAczJdVcZ6YAc/edit) ratified on October 23rd, elections for the Council board will take place via a public vote:
 
-* December 2nd, 10am-2pm
+~~* December 2nd, 10am-2pm
 * December 6th, 7am-8pm
 
-Voting will take place at the Somerville Police Station/Public Safety Building, at 220 Washington Street.
+~~Voting will take place at the Somerville Police Station/Public Safety Building, at 220 Washington Street.
 
-All election-related information, including voting and tabulation methodology, can be found thoroughly detailed in the aforementioned bylaws and in the [elections packet](http://unionsquareneighborhoodcouncil.org/USNC%20October%202017%20Elections%20Packet%20FINAL.pdf).
+~~All election-related information, including voting and tabulation methodology, can be found thoroughly detailed in the aforementioned bylaws and in the [elections packet](http://unionsquareneighborhoodcouncil.org/USNC%20October%202017%20Elections%20Packet%20FINAL.pdf).
+
+Elections took place as planned, and we now have a Council Board! Stay tuned for updates on how to stay engaged with the Neighborhood Council.
 
 ## Candidates and Eligibility
 
