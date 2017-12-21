@@ -2,30 +2,6 @@
 title: Union Square Neighborhood Council
 layout: default
 ---
-## Election Results
-
-The results for the first USNC Board Election are in, and the Founding Board is as follows:
-
-* Afruza Akther
-* Ann Camara
-* Andrea Lizama
-* Mike Firestone
-* Bill Cavellini
-* Michele Hansen
-* Pennie Taylor
-* Rachel Weil
-* Ben Baldwin
-* Ganesh Uprety
-* Jacob Kramer
-* Tori Antonino
-* Ben Bradlow
-* Joanne Berry
-* Erik Neu
-
-The complete results tabulation is available here in PDF form: [complete USNC Election totals](http://unionsquareneighborhoodcouncil.org/docs/NC%20Voting%20Master.pdf)
-
-Congratulations to the winners and thank you to all candidates and voters! 
-
 ## What is the Neighborhood Council?
 
 **The redevelopment that will transform our neighborhood is just beginning.** Residents, business people, and city officials have been working together to plan a Neighborhood Council to influence this transformation.
