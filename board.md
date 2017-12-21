@@ -15,7 +15,7 @@ The first Union Square Neighborhood Council Board is listed below.
 | Ann Camara |   |   somervilleann2@aol.com            |
 | Andrea Lizama |   |   andrealizama18@gmail.com            |
 | Mike Firestone |   |  mikefirestone@gmail.com             |
-| Michèle Hansen |   |  michelehansen087@gmail.com             |
+| Michèle Hansen |   |michelehansen087@gmail.com             |
 | Ganesh Uprety |   |               |
 | Jacob Kramer |   |  jacobakramer@gmail.com            |
 | Tori Antonino |   |   toriantonino@me.com            |
