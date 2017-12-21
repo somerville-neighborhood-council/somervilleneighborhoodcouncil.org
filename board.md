@@ -3,7 +3,7 @@ title: Board
 ---
 ## Board
 
-The first Union Square Neighborhood Council Board is listed below.
+The Union Square Neighborhood Council Founding Board is listed below.
 
 | Name           | Office                                      | Email Address                         |
 |----------------|---------------------------------------------|---------------------------------------|
@@ -22,3 +22,5 @@ The first Union Square Neighborhood Council Board is listed below.
 | Ben Bradlow |   | bhbradlow@gmail.com |
 | Joanne Berry |   |               |
 | Erik Neu |   | novus1@gmail.com  |
+
+The complete elections results tabulation that gave us this board is available here in PDF form: [complete USNC Election totals](http://unionsquareneighborhoodcouncil.org/docs/NC%20Voting%20Master.pdf)
