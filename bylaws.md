@@ -22,9 +22,6 @@ Open to all stakeholders over 16, has voting rights in elections of the Founding
 
 15-member Board empowered by the Membership to negotiate on behalf of the Neighborhood, negotiate Community Benefits, disburse funds, provide recommendations and speak on behalf of the USNC. 
 
-[See Elections page](/elections) to learn about founding board composition.
-
-
 ****
 
 ## Full documents
