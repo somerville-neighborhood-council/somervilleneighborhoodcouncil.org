@@ -9,7 +9,11 @@ layout: default
 [This presentation](https://docs.google.com/presentation/d/1Zg0cbAL8Zn12frl1hJm0Oea_zTw3LIJonKnc3XzIJFM/edit#slide=id.p) provides an overview of the Working Group and the decisons made so far.
 
 ****
-## Staying Informed
+## Participating and Staying Informed
+
+### Meetings
+
+USNC meetings are open to the public. You can find out when the next meeting is by viewing the [meetings](/meetings) page.
 
 ### Email
 To join the **major announcements list** and be notified about major upcoming events, sign up for the newsletter here: [major announcements list](http://tinyletter.com/unionsquareneighborhoodcouncil)
@@ -17,7 +21,6 @@ To join the **major announcements list** and be notified about major upcoming ev
 To receive **Working Group announcements** about future Working Group meetings, [join the Working Group announcements list](https://groups.google.com/forum/#!forum/usnc-wg-announcements)
 
 To join the online discussion around the **details** of the Union Square Neighborhood Council, [join the discussion list](https://groups.google.com/forum/#!forum/usnc-wg-discussion)
-
 
 ### Committees
 
