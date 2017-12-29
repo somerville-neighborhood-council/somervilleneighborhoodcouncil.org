@@ -4,20 +4,27 @@ title: Meetings
 
 ## Location and Logistics
 
-Meetings have been happening roughly every 10 days at the police station located at [220 Washington St. Union Square](https://goo.gl/maps/DKWAUjQiifw). Contact the [email lists](/#email) to learn more.
+The USNC and its Board meet in public - all are welcome to come. So far, meetings have been happening at the police station located at [220 Washington St. Union Square](https://goo.gl/maps/DKWAUjQiifw) but in the future, meetings might be held elsewhere in the Union Square area.
 
-## Process
+## Next USNC Board Meeting
 
-As a Working Group we have developed a process of:
+Date and time: Wednesday, January 3rd, 2018, 6:30 pm
+Location: Somerville Public Safety Building; 220 Washington St., Somerville
 
-* Meeting bi-weekly for 2-3 hours, alternating between weekend mornings and weekday evenings
-* Co-Facilitation and agenda management
-* Formal circulation and approval of meeting minutes
-* Adopting a robust code of conduct
-* Tasking subcommittees with developing materials and making recommendations
-* Includes Zoning, CBA, Structure &amp; Bylaws subcommittees
-* Voting to approve motions by 2/3 majority
-
-## Next Working Group Meetings
-
-* No currently scheduled working group meetings
+### Agenda
+* Welcome and introductions
+* Public Comment (20 m)
+* Upcoming Union Square permits, development items (15 m)
+  * MEPA
+* Committee description drafting report backs (60 m)
+  * Presentation
+  * Discussion
+  * Resolution 
+  * Expectations of committees 
+* Meeting logistics (15 m)
+  * Spaces
+  * Scheduling
+  * Media coverage
+  * Inclusionary logistics (translation, child care)
+* Open meeting laws (10 m)
+* Adjourn
