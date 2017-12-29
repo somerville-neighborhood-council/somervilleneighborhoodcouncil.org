@@ -8,8 +8,9 @@ The USNC and its Board meet in public - all are welcome to come. So far, meeting
 
 ## Next USNC Board Meeting
 
-Date and time: Wednesday, January 3rd, 2018, 6:30 pm
-Location: Somerville Public Safety Building; 220 Washington St., Somerville
+**Date and time:** Wednesday, January 3rd, 2018, 6:30 pm
+
+**Location:** Somerville Public Safety Building; 220 Washington St., Somerville
 
 ### Agenda
 * Welcome and introductions
