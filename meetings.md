@@ -8,7 +8,7 @@ The USNC and its Board meet in public - all are welcome to come. So far, meeting
 
 ## Meetig Minutes
 
-All meeting minutes are publicly available here: (USNC Meeting Minutes)[https://drive.google.com/open?id=1cYUa0aivIIH-yvfJe61SUdinDMtkb1WO]
+All meeting minutes are publicly available here: [https://drive.google.com/open?id=1cYUa0aivIIH-yvfJe61SUdinDMtkb1WO](USNC Meeting Minutes)
 
 ## Next USNC Board Meeting
 
