@@ -11,7 +11,7 @@ layout: default
 
 ### Meetings
 
-USNC meetings are open to the public. You can find out when the next meeting is by viewing the [meetings](/meetings) page. All minutes from past meetings are available [https://drive.google.com/open?id=1cYUa0aivIIH-yvfJe61SUdinDMtkb1WO](here).
+USNC meetings are open to the public. You can find out when the next meeting is by viewing the [meetings](/meetings) page. All minutes from past meetings are available [here](https://drive.google.com/open?id=1cYUa0aivIIH-yvfJe61SUdinDMtkb1WO).
 
 ### Email Announcements
 To be notified about major upcoming events, sign up for the newsletter here: [major announcements list](http://tinyletter.com/unionsquareneighborhoodcouncil)
