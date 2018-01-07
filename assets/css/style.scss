@@ -80,7 +80,6 @@ h2#somerville-ma {
   color: red;
 }
 
-.markdown-body h1 a,
 .markdown-body h2 a,
 .markdown-body h3 a,
 .markdown-body h4 a {
@@ -106,4 +105,8 @@ footer {
 
 .markdown-body h2 {
   margin-top: 3em;
+}
+
+.markdown-body h2#somervillema {
+  margin-top: 0px;
 }
