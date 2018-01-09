@@ -20,16 +20,16 @@ All meeting minutes are publicly available here: [USNC Meeting Minutes](https://
 * Welcome and introductions
 * Public Comment (10 m)
 * Upcoming Union Square permits, development items (10 m)
- * Zoning
+  * Zoning
 * CBA Committee Updated Report (10 m)
 * Firestone Letter Presentation/Discussion (15 m)
 * MEPA Working Group Update (10 m)
 * Bylaw Committee (10 m)
 * Meeting logistics (15 m)
- * Spaces
- * Scheduling
- * Media coverage
- * Inclusionary logistics (translation, child care)
+  * Spaces
+  * Scheduling
+  * Media coverage
+  * Inclusionary logistics (translation, child care)
 * Open meeting laws (10 m)
 * Public Comment (10 m)
 * Adjourn
