@@ -22,8 +22,8 @@ All meeting minutes are publicly available here: [USNC Meeting Minutes](https://
 3. CBA Committee Report and decisions (10 m)
   * Membership form
   * Planning and organizing for the community meeting
-    * approval of one page flyer for meetings on 1/31 and 2/3
-    * approval of presentation creation plan
+      * approval of one page flyer for meetings on 1/31 and 2/3
+      * approval of presentation creation plan
 4. Outreach and Communications check-in (10 m)
   * Report
   * Outreach suggestions - Ann Camara
