@@ -4,7 +4,7 @@ title: Meetings
 
 ## Location and Logistics
 
-The USNC and its Board meet in public - all are welcome to come. So far, meetings have been happening at the police station located at [220 Washington St. Union Square](https://goo.gl/maps/DKWAUjQiifw) but in the future, meetings might be held elsewhere in the Union Square area.
+The USNC and its Board meet in public - all are welcome to come.
 
 ## Meeting Minutes
 
@@ -12,24 +12,25 @@ All meeting minutes are publicly available here: [USNC Meeting Minutes](https://
 
 ## Next USNC Board Meeting
 
-**Date and time:** Wednesday, January 10th, 2018, 6:30 pm
+**Date and time:** Wednesday, January 17th, 2018, 7:00 pm
 
-**Location:** Somerville Public Safety Building; 220 Washington St., Somerville
+**Location:** Canopy; 14 Tyler Street, 3rd floor, Somerville
 
 ### Agenda
-* Welcome and introductions
-* Public Comment (10 m)
-* Upcoming Union Square permits, development items (10 m)
-  * Zoning
-* CBA Committee Updated Report (10 m)
-* Firestone Letter Presentation/Discussion (15 m)
-* MEPA Working Group Update (10 m)
-* Bylaw Committee (10 m)
-* Meeting logistics (15 m)
-  * Spaces
-  * Scheduling
-  * Media coverage
-  * Inclusionary logistics (translation, child care)
-* Open meeting laws (10 m)
-* Public Comment (10 m)
-* Adjourn
+1. Welcome and introductions
+2. Public Comment 1 (10 m)
+3. CBA Committee Report and decisions (10 m)
+  * Membership form
+  * Planning and organizing for the community meeting
+    * approval of one page flyer for meetings on 1/31 and 2/3
+    * approval of presentation creation plan
+4. Outreach and Communications check-in (10 m)
+  * Report
+  * Outreach suggestions - Ann Camara
+5. Built environment check-in (10 m)
+6. Letter to the Board of Aldermen (20 m)
+7. Planning for Open Meeting Law Meeting on Monday, January 22nd (10 m)
+8. Bylaw committee discussion (10 m)
+9. Future meeting logistics - space, facilitators, etc. (5 m)
+10. Public comment 2 (10 m)
+11. Adjourn
