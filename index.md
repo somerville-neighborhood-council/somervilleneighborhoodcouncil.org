@@ -7,9 +7,21 @@ layout: default
 **The redevelopment that will transform our neighborhood is just beginning.** Residents, business people, and city officials have been working together to create a Neighborhood Council to influence this transformation.
 
 ****
-## Meetings
+## Upcoming Events
 
-USNC meetings are open to the public. You can find out when the next meeting is by viewing the [meetings](/meetings) page. All minutes from past meetings are available [here](https://drive.google.com/open?id=1cYUa0aivIIH-yvfJe61SUdinDMtkb1WO).
+**CBA Summits at Argenziano School**
+
+Part of the USNC's mandate will be to negotiate a **Community Benefits Agreement (CBA)** with the Union Square master developer. This CBA will have a major impact on how development proceeds and on what kinds of benefits - financial or otherwise - the community will receive. Two summits have been scheduled to address this issue publicly. Each will feature an informational presentation about the CBA and time for open discussion about what you would like to see included in the CBA.
+
+* Wednesday, Feb 7, 7-9pm at Argenziano School
+* Saturday, Feb 10, 10am-12pm at Argenziano School
+
+(Both meetings will feature the same content; feel free to attend either or both!)
+
+
+## Board Meetings
+
+USNC Board Meetings are open to the public. You can find out when the next meeting is by viewing the [meetings](/meetings) page. All minutes from past meetings are available [here](https://drive.google.com/open?id=1cYUa0aivIIH-yvfJe61SUdinDMtkb1WO).
 
 ## Email Announcements
 To be notified about major upcoming events, sign up for the newsletter here: [major announcements list](http://tinyletter.com/unionsquareneighborhoodcouncil)
