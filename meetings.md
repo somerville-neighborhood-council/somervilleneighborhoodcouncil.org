@@ -12,7 +12,7 @@ All minutes from past meetings are publicly available here: [USNC Meeting Minute
 
 ## Next USNC Board Meeting
 
-**Date and time:** Wednesday, January 22nd, 2018, 7:00 pm
+**Date and time:** Monday, January 22nd, 2018, 7:00 pm
 
 **Location:** Canopy; 14 Tyler Street, 3rd floor, Somerville
 
