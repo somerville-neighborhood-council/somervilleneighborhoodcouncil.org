@@ -9,12 +9,12 @@ layout: default
 ****
 ## Upcoming Events
 
-**CBA Summits at Argenziano School**
+**CBA Summits**
 
 Part of the USNC's mandate will be to negotiate a **Community Benefits Agreement (CBA)** with the Union Square master developer. This CBA will have a major impact on how development proceeds and on what kinds of benefits - financial or otherwise - the community will receive. Two summits have been scheduled to address this issue publicly. Each will feature an informational presentation about the CBA and time for open discussion about what you would like to see included in the CBA.
 
-* Wednesday, Feb 7, 7-9pm at Argenziano School
-* Saturday, Feb 10, 10am-12pm at Argenziano School
+* Wednesday, Feb 7, 7-9pm at Argenziano School (290 Washington Street)
+* Saturday, Feb 10, 10am-12pm at Public Safety Building (220 Washington Street)
 
 (Both meetings will feature the same content; feel free to attend either or both!)
 
