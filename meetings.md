@@ -12,15 +12,11 @@ All minutes from past meetings are publicly available here: [USNC Meeting Minute
 
 ## Next USNC Board Meeting
 
-**Date and time:** Monday, January 22nd, 2018, 7:00 pm
+**Date and time:** Wednesday, January 31, 2018, time TBA
 
-**Location:** Canopy; 14 Tyler Street, 3rd floor, Somerville
+**Location:** Public Safety Building, 220 Washington Street
 
 If you would like to cofacilitate, please email [Rachel](mailto:rachjweil@gmail.com).
 
 ### Agenda
-1. Welcome and introductions (5 m)
-2. Open Meeting Law presentation & discussion (40 m)
-3. Ethics discussion (20 m)
-4. Other business
-5. Public Comment (20 m)
+TBA
