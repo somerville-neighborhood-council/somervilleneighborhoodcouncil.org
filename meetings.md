@@ -24,13 +24,13 @@ If you would like to cofacilitate, please email [Rachel](mailto:rachjweil@gmail.
 2. Approval of minutes of 1/22/18 meeting (5 minutes)
 3. Collection of Potential Conflict of Interest Disclosure forms
 4. CBA Committee report (35 minutes)
- a. Discussion of preparations for CBA Summits – 2/7 and 2/10
- b. Outline of presentation
- c. Getting the word out – (with Comm. &amp; Outreach Comm.)
- d. Other
+  * Discussion of preparations for CBA Summits – 2/7 and 2/10
+  * Outline of presentation
+  * Getting the word out – (with Comm. &amp; Outreach Comm.)
+  * Other
 5. Communication and Outreach Committee Report - (15 minutes)
- a. Method for getting more small business community input before Summits
- b. Peter Levine from Somerville Media Center (SCAT) on one option for coverage
+  * Method for getting more small business community input before Summits
+  * Peter Levine from Somerville Media Center (SCAT) on one option for coverage
 6. Discussion and decision on whether to form a Funding/Finance Committee (15 minutes)
 7. Built Environment Committee Report (10 minutes)
 8. Discussion of BOA resolution about Neighborhood Council recognition (10 minutes)
