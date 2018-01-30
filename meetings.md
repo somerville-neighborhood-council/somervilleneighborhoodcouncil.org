@@ -2,7 +2,7 @@
 title: Meetings
 ---
 
-## Location and Logistics
+## Meeting Logistics
 
 The USNC and its Board meet in public - all are welcome to come.
 
