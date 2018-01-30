@@ -1,5 +1,5 @@
 ---
-title: Members
+title: Join the Council
 ---
 
 ## Member Eligibility
