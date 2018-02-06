@@ -12,29 +12,25 @@ All minutes from past meetings are publicly available here: [USNC Meeting Minute
 
 ## Next USNC Board Meeting
 
-**Date and time:** Wednesday, January 31, 2018, 7:00pm
+**Date and time:** Thursday, February 15, 2018, 7:00pm
 
-**Location:** Public Safety Building, 220 Washington Street
+**Location:** Argenziano School Cafeteria, 290 Washington Street
 
 If you would like to cofacilitate, please email [Rachel](mailto:rachjweil@gmail.com).
 
 ### Agenda
 
-1. Welcome and introductions
-2. Approval of minutes of 1/22/18 meeting (5 minutes)
-3. Collection of Potential Conflict of Interest Disclosure forms
-4. CBA Committee report (35 minutes)
-  * Discussion of preparations for CBA Summits – 2/7 and 2/10
-  * Outline of presentation
-  * Getting the word out – (with Comm. &amp; Outreach Comm.)
-  * Other
-5. Communication and Outreach Committee Report - (15 minutes)
-  * Method for getting more small business community input before Summits
-  * Peter Levine from Somerville Media Center (SCAT) on one option for coverage
-6. Discussion and decision on whether to form a Funding/Finance Committee (15 minutes)
-7. Built Environment Committee Report (10 minutes)
-8. Discussion of BOA resolution about Neighborhood Council recognition (10 minutes)
-9. Date and time of next meeting after CBA Summits (5 minutes)
-10. Public Comment (25 minutes)
+1. TBA
+
+## Other Upcoming Events
+
+**CBA Summits**
+
+Part of the USNC's mandate will be to negotiate a **Community Benefits Agreement (CBA)** with the Union Square master developer. This CBA will have a major impact on how development proceeds and on what kinds of benefits - financial or otherwise - the community will receive. Two summits have been scheduled to address this issue publicly. Each will feature an informational presentation about the CBA and time for open discussion about what you would like to see included in the CBA.
+
+* Wednesday, Feb 7, 7-9pm at Argenziano School (290 Washington Street)
+* Saturday, Feb 10, 10am-12pm at Public Safety Building (220 Washington Street)
+
+(Both meetings will feature the same content; feel free to attend either or both!)
 
 
