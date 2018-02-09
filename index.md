@@ -18,10 +18,9 @@ Part of the USNC's mandate will be to negotiate a **Community Benefits Agreement
 
 (Both meetings will feature the same content; feel free to attend either or both!)
 
+## Meetings
 
-## Board Meetings
-
-USNC Board Meetings are open to the public. You can find out when the next meeting is by viewing the [meetings](/meetings) page. All minutes from past meetings are available [here](https://drive.google.com/open?id=1cYUa0aivIIH-yvfJe61SUdinDMtkb1WO).
+USNC Meetings are open to the public. You can find out when the next meeting is by viewing the [meetings](/meetings) page. All minutes from past meetings are available [here](https://drive.google.com/open?id=1cYUa0aivIIH-yvfJe61SUdinDMtkb1WO).
 
 ## Email Announcements
 To be notified about major upcoming events, sign up for the newsletter here: [major announcements list](http://tinyletter.com/unionsquareneighborhoodcouncil)
@@ -32,6 +31,9 @@ The USNC uses Google Groups to communicate. You can read via the web interface o
 * [USNC Board discussion forum](https://groups.google.com/forum/#!forum/usnc-board) - This forum is for Board members to conduct their communication in public view. Only Board members may post, but anyone can read and follow along with the discussion.
 
 * [USNC Public discussion forum](https://groups.google.com/forum/#!forum/usnc-public) - This forum is open to all. All posts are publicly visible. If you want to post, you must join the group by clicking the blue button that says "Apply to join group". **All applications will be approved; this is just to control spam, and is not any sort of "screen" on applicants.**
+
+## Resources and Documents
+A repository of USNC-related documents and resources is available for public view on Google Drive here: [Resources and Documents Repository](https://drive.google.com/drive/u/0/folders/11JEx3dQnWkBfhgqVJWqeb_W1W0JEZXsf)
 
 ## Committees
 
