@@ -20,17 +20,14 @@ If you would like to cofacilitate, please email [Rachel](mailto:rachjweil@gmail.
 
 ### Agenda
 
-1. TBA
-
-## Other Upcoming Events
-
-**CBA Summits**
-
-Part of the USNC's mandate will be to negotiate a **Community Benefits Agreement (CBA)** with the Union Square master developer. This CBA will have a major impact on how development proceeds and on what kinds of benefits - financial or otherwise - the community will receive. Two summits have been scheduled to address this issue publicly. Each will feature an informational presentation about the CBA and time for open discussion about what you would like to see included in the CBA.
-
-* Wednesday, Feb 7, 7-9pm at Argenziano School (290 Washington Street)
-* Saturday, Feb 10, 10am-12pm at Public Safety Building (220 Washington Street)
-
-(Both meetings will feature the same content; feel free to attend either or both!)
-
+1. Welcome and Introductions (5m)
+2. Approval of minutes of 1/31/2018 meeting (5m)
+3. Collection of potential conflict of interest disclosure forms
+4. CBA Summits: Next steps (20m)
+5. Board of Alderman/Mayoral recognition of USNC (15m)
+6. Business/Brick and mortar outreach (10m)
+7. Discussion of proposed housing development on Bow Street (10m)
+8. Scheduling - Results of Doodle Poll (5m)
+9. Public Comment (20m)
+10. Adjourn
 
