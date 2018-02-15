@@ -25,9 +25,10 @@ If you would like to cofacilitate, please email [Rachel](mailto:rachjweil@gmail.
 3. Collection of potential conflict of interest disclosure forms
 4. CBA Summits: Next steps (20m)
 5. Board of Alderman/Mayoral recognition of USNC (15m)
-6. Business/Brick and mortar outreach (10m)
-7. Discussion of proposed housing development on Bow Street (10m)
-8. Scheduling - Results of Doodle Poll (5m)
-9. Public Comment (20m)
-10. Adjourn
+6. Built Environment Committee Update (10m)
+7. Business/Brick and mortar outreach (10m)
+8. Discussion of proposed housing development on Bow Street (10m)
+9. Scheduling - Results of Doodle Poll (5m)
+10. Public Comment (20m)
+11. Adjourn
 
