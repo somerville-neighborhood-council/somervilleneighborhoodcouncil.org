@@ -10,7 +10,7 @@ The USNC and its Board meet in public - all are welcome to come.
 
 All minutes from past meetings are publicly available here: [USNC Meeting Minutes](https://drive.google.com/open?id=1cYUa0aivIIH-yvfJe61SUdinDMtkb1WO)
 
-## Next USNC Board Meeting
+## Next USNC Meeting
 
 **Date and time:** Thursday, February 22, 2018, 7:00pm
 
