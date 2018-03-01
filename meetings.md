@@ -12,27 +12,26 @@ All minutes from past meetings are publicly available here: [USNC Meeting Minute
 
 ## Next USNC Meeting
 
-**Date and time:** Thursday, February 22, 2018, 7:00pm
+**Date and time:** Thursday, March 1, 2018, 7:00pm
 
-**Location:** Argenziano School Cafeteria, 290 Washington Street
+**Location:** Public Safety Building, 220 Washington Street
 
 If you would like to cofacilitate, please email [Rachel](mailto:rachjweil@gmail.com).
 
 ### Agenda
 
-Agenda
-1. Welcome and introductions
-2. Approval of minutes of 2/15/18 meeting       (5 minutes)
-3. Collection of Potential Conflict of Interest Disclosure forms
-4. CBA Committee report       (10 minutes)
-a. Progress of additional inputs from organizations & individuals
-b. Other
-5. Plan presentation of US2 site plan and scheduling possible site visit (10 minutes)
-6. Built Environment Committee Report (10 minutes)
-7. Discussion and approval of response to Newmarket developers offer to discuss proposal for
-65-71 Bow Street (15 minutes)
-8. Discussion on whether to change Article 16 of the Interim Bylaws to clarify intent
-9. Communication and Outreach Committee Report -  (15 minutes)
-10. Public Comment  (25 minutes)
-11. Next meeting time and place
- 
+1. Welcome and Introductions
+2. Approval of minutes from 2/22/18 meeting (5 m)
+  * Collection of Conflict of Interest Disclosure Forms
+3. Next meeting time and place (10m)
+  * Proposal: Full board/membership meet on Thursdays every odd week, committees meet at same Thursday time every even week
+4. CBA Committee Report (15 m)
+  * Timeline proposal - Ben Bradlow (distributed)
+  * Progress of additional inputs from organizations and individuals
+5. Built Environment Committee Report (15 m)
+  * Seeking approval of Open Space Letter: Somervision Goal of 125 acres
+  * Seeking approval of letter to US2/George Proakis re: next steps after open house
+6. Discussion of Article 16 of the Interim Bylaws - Andy (10m)
+7. Endorsement of SHS walk-out to protest gun violence - Andrea/Jacob (10 m)
+8. Public Comment (25 m)
+9. Adjourn
