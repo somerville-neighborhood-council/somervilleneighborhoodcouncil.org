@@ -12,7 +12,7 @@ All minutes from past meetings are publicly available here: [USNC Meeting Minute
 
 ## Next USNC Meeting
 
-**Date and time:** Tuesday, March 6, 2018, 7:00pm
+**Date and time:** Tuesday, March 15, 2018, 7:00pm
 
 **Location:** Argenziano School Cafeteria, 290 Washington Street
 
@@ -20,13 +20,17 @@ If you would like to cofacilitate, please email [Rachel](mailto:rachjweil@gmail.
 
 ### Agenda
 
-1. Welcome and Introductions
-2. Approval of minutes from 3/1/18 meeting (5 m)
-3. Collection of Conflict of Interest Disclosure Forms
-4. Next meeting time and place (5m)
-5. Report back from Thursday Board of Aldermen Legislative Matters Committee meeting (10m)
-6. Zoning overhaul discussion (20m)
-7. March 17 site visit (15m)
-8. Committee updates
-9. Public Comment (25 m)
-10. Adjourn
+NOTE THAT DISCUSSIONS INCLUDE INCORPORATION OF USNC AS A NONPROFIT AND THE COMMUNITY BENEFITS AGREEMENT REPORT.
+
+1. Welcome and Introductions (5m)
+2. CBA Report (20m)
+3. Discussion of USNC Incorporation as non-profit (30m)
+4. Union Square Site Visit- Sat 3/17 10am at Block 11 followed by zoning discussion with Dan Bartman (OSPCD) (10m)
+5. New Website Launch (5m)
+6. Built Environment Committee Invitation to city (10m)
+7. Zoning Discussion (continued)
+  * Public hearing postponed until 4/3
+8. Outreach Committee social event planning (5m)
+9. Next Meeting (5m)
+10. Public Comment (20m)
+11. Adjourn
