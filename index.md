@@ -10,11 +10,11 @@ layout: default
 ## Nominations are open for the CBA Negotiating Committee!
 Per Article 16 of the [USNC Bylaws](/bylaws), the Founding Board will be appointing a  Committee to negotiate a Community Benefits Agreement with US2. 
  
-**Nominations are open until midnight April 8th (though the Board may extend that deadline).** Nominees should submit a statement on their qualifications (~400 words) and a CV to Ben Baldwin, our Secretary. They will also be asked to fill out a Conflict of Interest Disclosure Form, as well as a [Membership form](https://docs.google.com/forms/d/1WSFuG5Kpl8LSc0JUjpds5CBEfG7b0R1oWfcaWtM9IIs/viewform?edit_requested=true)
+**Nominations are open until midnight April 8th (though the Board may extend that deadline).** Nominees should submit a statement on their qualifications (~400 words) and a CV to Ben Baldwin, our Secretary. They will also be asked to fill out a Conflict of Interest Disclosure Form, as well as a [Membership form](https://docs.google.com/forms/d/1WSFuG5Kpl8LSc0JUjpds5CBEfG7b0R1oWfcaWtM9IIs/viewform?edit_requested=true) **You are more than welcome to nominate yourself!**
 
-**You are more than welcome to nominate yourself!**
+If selected, Nominees should expect to commit multiple hours per week over the next few months, with the expectation that there may be some "intense" days when details need to be finalized. The Board hopes to appoint 5-7 individuals to the Negotiation Committee.
 
-If selected, Nominees should expect to commit multiple hours per week over the next few months, with the expectation that there may be some "intense" days when details need to be finalized. The Board hopes to appoint 5-7 individuals to the Negotiation Committee. In terms of composition, the Board recognizes that Nominees will bring a diversity of experience and perspectives to the table, and that not all valuable expertise is formalized by academic degrees (although expertise in legal, policy, or planning areas is of course highly applicable and desired). We intend for the negotiating team to include a mix of homeowners, renters, business owners and workers to ensure a broad range of Union Square perspectives.
+In terms of composition, the Board recognizes that Nominees will bring a diversity of experience and perspectives to the table, and that not all valuable expertise is formalized by academic degrees (although expertise in legal, policy, or planning areas is of course highly applicable and desired). We intend for the negotiating team to include a mix of homeowners, renters, business owners and workers to ensure a broad range of Union Square perspectives.
 
 ## Meetings
 
