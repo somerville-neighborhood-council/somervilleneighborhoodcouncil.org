@@ -12,20 +12,18 @@ All minutes from past meetings are publicly available here: [USNC Meeting Minute
 
 ## Next USNC Meeting
 
-**Date and time:** Thursday, March 29, 2018, 7:00pm
+**Date and time:** Thursday, April 5, 2018, 7:00pm
 
-**Location:** Argenziano School, 290 Washington Street
+**Location:** Argenziano School Cafeteria, 290 Washington Street
 
 If you would like to cofacilitate, please email [Rachel](mailto:rachjweil@gmail.com).
 
 ### Agenda
 
 * Welcome and Introductions (5m)
-* Recommendations from CBA Committee for next steps (20m)
-* Zoning and affordability - a proposal (15m)
-* Update on amendment to covenant process in BOA (15m)
-  * Built Environment Committee update (15m)
-  * Outreach to US2 and/or city of Somerville
-* Documentation of questions
-* Next Meeting (5m)
-* Public Comment (25m)
+* Approval of minutes from 3/29/18 meeting (5m)
+* Update on BOA formal recognition of USNC (10m)
+* Review of prepared questions for George Proakis & Sarah White (15m)
+* Discussion & decision on Traffic and Parking priorities from CBA report (30m)
+* Public Comment (20m)
+* Next meeting date and time
