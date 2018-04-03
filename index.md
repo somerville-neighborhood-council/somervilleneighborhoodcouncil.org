@@ -20,6 +20,10 @@ In terms of composition, the Board recognizes that Nominees will bring a diversi
 
 USNC Meetings are open to the public. You can find out when the next meeting is by viewing the [meetings](/meetings) page. All minutes from past meetings are available [here](https://drive.google.com/open?id=1cYUa0aivIIH-yvfJe61SUdinDMtkb1WO).
 
+## Upcoming Events
+
+There will be a USNC party with live, local music on **Saturday, April 28 at the Greek-American Social Club!** Join your neighbors and fellow USNC members for a night of fun. More details forthcoming!
+
 ## Email Announcements
 To be notified about major upcoming events, sign up for the newsletter here: [major announcements list](http://tinyletter.com/unionsquareneighborhoodcouncil)
 
