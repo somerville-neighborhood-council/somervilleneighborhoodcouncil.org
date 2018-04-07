@@ -22,7 +22,7 @@ USNC Meetings are open to the public. You can find out when the next meeting is 
 
 ## Upcoming Events
 
-There will be a USNC party with live, local music on **Saturday, April 28 at the Greek-American Social Club!** Join your neighbors and fellow USNC members for a night of fun. More details forthcoming!
+**There will be a USNC party with live, local music on Saturday, April 28 at the Greek-American Social Club!** Join your neighbors and fellow USNC members for a night of fun. Click this link to learn more and [RSVP to the party](https://www.eventbrite.com/e/union-square-neighborhood-council-party-tickets-44945036815)
 
 ## Email Announcements
 To be notified about major upcoming events, sign up for the newsletter here: [major announcements list](http://tinyletter.com/unionsquareneighborhoodcouncil)
